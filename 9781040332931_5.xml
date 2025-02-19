@@ -1,0 +1,3372 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-18T12:15:23</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID"></itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title/>
+<source type="book" country="">
+<sourcetitle></sourcetitle>
+<sourcetitle-abbrev></sourcetitle-abbrev>
+<isbn type="print" length="10"></isbn>
+<isbn type="print" length="13"></isbn>
+<isbn type="electronic" length="10"></isbn>
+<isbn type="electronic" length="13"></isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page></first-page>
+<last-page></last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first=""/>
+<publicationdate>
+<year></year>
+<month>01</month>
+<day>01</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url"></ce:e-address>
+</website>
+<publisher>
+<publishername></publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code></classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="112">
+<reference seq="367">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Message from Howard Schultz</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>From Buffalo, with Love</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-website>
+<ce:e-address type="url">https://stories.starbucks.com/press/2021/a-message-from-howard-schultz-from-buffalo-with-love/</ce:e-address>
+</ref-website>
+<ref-text>Starbucks Stories &amp; News</ref-text>
+</ref-info>
+<ref-fulltext>A Message from Howard Schultz: From Buffalo, with Love (2021). Starbucks Stories &amp; News. https://stories.starbucks.com/press/2021/a-message-from-howard-schultz-from-buffalo-with-love/</ref-fulltext>
+<ce:source-text>A Message from Howard Schultz: From Buffalo, with Love (2021). Starbucks Stories &amp; News. https://stories.starbucks.com/press/2021/a-message-from-howard-schultz-from- buffalo-with-love/</ce:source-text>
+</reference>
+<reference seq="368">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Work disengagement: A review of the literature</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Afrahi</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Blenkinsopp</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Fernandez de Arroyabe</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.S.</ce:initials>
+<ce:surname>Karim</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Resource Management Review</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/J.HRMR.2021.100822</ce:e-address>
+</ref-website>
+<ref-text>100822</ref-text>
+</ref-info>
+<ref-fulltext>Afrahi, B., Blenkinsopp, J., Fernandez de Arroyabe, J. C., &amp; Karim, M. S. (2022). Work disengagement: A review of the literature. Human Resource Management Review, 32(2),100822. https://doi.org/10.1016/J.HRMR.2021.100822</ref-fulltext>
+<ce:source-text>Afrahi, B., Blenkinsopp, J., Fernandez de Arroyabe, J. C., &amp; Karim, M. S. (2022). Work disengagement: A review of the literature. Human Resource Management Review, 32(2),100822. https://doi.org/10.1016/J.HRMR.2021.100822</ce:source-text>
+</reference>
+<reference seq="369">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fear as a strategy: Effects and impact within the organization</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.H.</ce:initials>
+<ce:surname>Appelbaum</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bregman</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>P.</ce:initials>
+<ce:surname>Moroz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of European Industrial Training</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>113</first-page>
+<last-page>127</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Appelbaum, S. H., Bregman, M., &amp; Moroz, P. (1998). Fear as a strategy: Effects and impact within the organization. Journal of European Industrial Training, 22(3), 113–127.</ref-fulltext>
+<ce:source-text>Appelbaum, S. H., Bregman, M., &amp; Moroz, P. (1998). Fear as a strategy: Effects and impact within the organization. Journal of European Industrial Training, 22(3), 113–127.</ce:source-text>
+</reference>
+<reference seq="370">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Trade unions in the hotel and catering industry: The views of hotel managers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.H.</ce:initials>
+<ce:surname>Aslan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.C.</ce:initials>
+<ce:surname>Wood</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Employee Relations</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>61</first-page>
+<last-page>70</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Aslan, A. H., &amp; Wood, R. C. (1993). Trade unions in the hotel and catering industry: The views of hotel managers. Employee Relations, 15(2), 61–70.</ref-fulltext>
+<ce:source-text>Aslan, A. H., &amp; Wood, R. C. (1993). Trade unions in the hotel and catering industry: The views of hotel managers. Employee Relations, 15(2), 61–70.</ce:source-text>
+</reference>
+<reference seq="371">
+<ref-info>
+<ref-title>
+<ref-titletext-english>An examination of the validity of two models of attitude</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.P.</ce:initials>
+<ce:surname>Bagozzi</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Multivariate Behavioral Research</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>323</first-page>
+<last-page>359</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bagozzi, R. P. (1981). An examination of the validity of two models of attitude. Multivariate Behavioral Research, 16(3), 323–359.</ref-fulltext>
+<ce:source-text>Bagozzi, R. P. (1981). An examination of the validity of two models of attitude. Multivariate Behavioral Research, 16(3), 323–359.</ce:source-text>
+</reference>
+<reference seq="372">
+<ref-info>
+<ref-title>
+<ref-titletext-english>On the evaluation of structural equation models</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.P.</ce:initials>
+<ce:surname>Bagozzi</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Yi</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Academy of Marketing Science</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>74</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bagozzi, R. P., &amp; Yi, Y. (1988). On the evaluation of structural equation models. Journal of the Academy of Marketing Science, 16(1), 74–94.</ref-fulltext>
+<ce:source-text>Bagozzi, R. P., &amp; Yi, Y. (1988). On the evaluation of structural equation models. Journal of the Academy of Marketing Science, 16(1), 74–94.</ce:source-text>
+</reference>
+<reference seq="373">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Defensive behaviors, fear, and anxiety</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.C.</ce:initials>
+<ce:surname>Blanchard</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Blanchard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Handbook of Anxiety and Fear</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>63</first-page>
+<last-page>80</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In R. J. Blanchard, D. C. Blanchard, G. Griebel, &amp; D. Nutt (Eds.), Boston: Academic Press</ref-text>
+</ref-info>
+<ref-fulltext>Blanchard, D. C., &amp; Blanchard, R. J. (2008). Defensive behaviors, fear, and anxiety. In R. J. Blanchard, D. C. Blanchard, G. Griebel, &amp; D. Nutt (Eds.), Handbook of anxiety and fear. Vol. 17 (pp. 63–80). Boston: Academic Press.</ref-fulltext>
+<ce:source-text>Blanchard, D. C., &amp; Blanchard, R. J. (2008). Defensive behaviors, fear, and anxiety. In R. J. Blanchard, D. C. Blanchard, G. Griebel, &amp; D. Nutt (Eds.), Handbook of anxiety and fear. Vol. 17 (pp. 63–80). Boston: Academic Press.</ce:source-text>
+</reference>
+<reference seq="374">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Best Practices for developing and validating scales for health, social, and behavioral research: A primer</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.O.</ce:initials>
+<ce:surname>Boateng</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.B.</ce:initials>
+<ce:surname>Neilands</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>E.A.</ce:initials>
+<ce:surname>Frongillo</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>H.R.</ce:initials>
+<ce:surname>Melgar-Quiñonez</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Young</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Frontiers in Public Health</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>149</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., &amp; Young, S. L. (2018). Best Practices for developing and validating scales for health, social, and behavioral research: A primer. Frontiers in Public Health, 6, 149.</ref-fulltext>
+<ce:source-text>Boateng, G. O., Neilands, T. B., Frongillo, E. A., Melgar-Quiñonez, H. R., &amp; Young, S. L. (2018). Best Practices for developing and validating scales for health, social, and behavioral research: A primer. Frontiers in Public Health, 6, 149.</ce:source-text>
+</reference>
+<reference seq="375">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Bowlby ainsworth attachment theory</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Bowlby</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Behavioral and Brain Sciences</ref-sourcetitle>
+<ref-publicationyear first="1979"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>637</first-page>
+<last-page>638</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1017/S0140525X00064955</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Bowlby, J. (1979). The Bowlby ainsworth attachment theory. Behavioral and Brain Sciences, 2(4), 637–638. https://doi.org/10.1017/S0140525X00064955</ref-fulltext>
+<ce:source-text>Bowlby, J. (1979). The Bowlby ainsworth attachment theory. Behavioral and Brain Sciences, 2(4), 637–638. https://doi.org/10.1017/S0140525X00064955</ce:source-text>
+</reference>
+<reference seq="376">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Under the radar? Modern slavery and labour exploitation risks for the hotel industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Bullock</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Di Domenico</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Miller</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Shirgholami</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Wong</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>102</vol-first>
+<iss-first>104857</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.tourman.2023.104857</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Bullock, K., Di Domenico, M., Miller, G., Shirgholami, Z., &amp; Wong, Y. (2024). Under the radar? Modern slavery and labour exploitation risks for the hotel industry. Tourism Man- agement, 102, 104857. https://doi.org/10.1016/j.tourman.2023.104857</ref-fulltext>
+<ce:source-text>Bullock, K., Di Domenico, M., Miller, G., Shirgholami, Z., &amp; Wong, Y. (2024). Under the radar? Modern slavery and labour exploitation risks for the hotel industry. Tourism Man- agement, 102, 104857. https://doi.org/10.1016/j.tourman.2023.104857</ce:source-text>
+</reference>
+<reference seq="377">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bureau of Labor Statistics, U.S. Department of Labor</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Union Members</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Bureau of Labor Statistics, U.S. Department of Labor (2024). Union members. https://www.bls.gov/news.release/pdf/union2.pdf</ref-fulltext>
+<ce:source-text>Bureau of Labor Statistics, U.S. Department of Labor (2024). Union members. https://www.bls.gov/news.release/pdf/union2.pdf</ce:source-text>
+</reference>
+<reference seq="378">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fear of unemployment and its effect on the mental health of spouses</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Bünnings</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kleibrink</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Weßling</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Health Economics</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>104</first-page>
+<last-page>117</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bünnings, C., Kleibrink, J., &amp; Weßling, J. (2017). Fear of unemployment and its effect on the mental health of spouses. Health Economics, 26, 104–117.</ref-fulltext>
+<ce:source-text>Bünnings, C., Kleibrink, J., &amp; Weßling, J. (2017). Fear of unemployment and its effect on the mental health of spouses. Health Economics, 26, 104–117.</ce:source-text>
+</reference>
+<reference seq="379">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Engagement in environmental behaviors among supply chain management employees: An organizational support theoretical perspective</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.E.</ce:initials>
+<ce:surname>Cantor</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.C.</ce:initials>
+<ce:surname>Morrow</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>F.</ce:initials>
+<ce:surname>Montabon</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Supply Chain Management</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>48</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>33</first-page>
+<last-page>51</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cantor, D. E., Morrow, P. C., &amp; Montabon, F. (2012). Engagement in environmental behaviors among supply chain management employees: An organizational support theoretical perspective. Journal of Supply Chain Management, 48(3), 33–51. https://doi.org/10.1111/j.1745-493X.2011.03257.x</ref-fulltext>
+<ce:source-text>Cantor, D. E., Morrow, P. C., &amp; Montabon, F. (2012). Engagement in environmental behaviors among supply chain management employees: An organizational support theoretical perspective. Journal of Supply Chain Management, 48(3), 33–51. https://doi.org/10.1111/j.1745-493X.2011.03257.x</ce:source-text>
+</reference>
+<reference seq="380">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What drives consumers to spread electronic word of mouth in online consumer-opinion platforms</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.M.K.</ce:initials>
+<ce:surname>Cheung</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.K.O.</ce:initials>
+<ce:surname>Lee</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Decision Support Systems</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>218</first-page>
+<last-page>225</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.dss.2012.01.015</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Cheung, C. M. K., &amp; Lee, M. K. O. (2012). What drives consumers to spread electronic word of mouth in online consumer-opinion platforms. Decision Support Systems, 53(1),218–225. https://doi.org/10.1016/j.dss.2012.01.015</ref-fulltext>
+<ce:source-text>Cheung, C. M. K., &amp; Lee, M. K. O. (2012). What drives consumers to spread electronic word of mouth in online consumer-opinion platforms. Decision Support Systems, 53(1),218–225. https://doi.org/10.1016/j.dss.2012.01.015</ce:source-text>
+</reference>
+<reference seq="381">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A paradigm for developing better measures of marketing con- structs</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.A.</ce:initials>
+<ce:surname>Churchill Jr</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Marketing Research</ref-sourcetitle>
+<ref-publicationyear first="1979"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>64</first-page>
+<last-page>73</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Churchill, G. A. Jr (1979). A paradigm for developing better measures of marketing con- structs. Journal of Marketing Research, 16(1), 64–73.</ref-fulltext>
+<ce:source-text>Churchill, G. A. Jr (1979). A paradigm for developing better measures of marketing con- structs. Journal of Marketing Research, 16(1), 64–73.</ce:source-text>
+</reference>
+<reference seq="382">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Clark</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The 4 Stages of Psychological Safety.</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>Oakland: Berret-Koehler Publishers</ref-text>
+</ref-info>
+<ref-fulltext>Clark, T. (2020). The 4 stages of psychological safety. Oakland: Berret-Koehler Publishers.</ref-fulltext>
+<ce:source-text>Clark, T. (2020). The 4 stages of psychological safety. Oakland: Berret-Koehler Publishers.</ce:source-text>
+</reference>
+<reference seq="383">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Toward a theoretical framework of corporate social irresponsibility: Clarifying the gray zones between responsibility and irresponsibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.E.</ce:initials>
+<ce:surname>Clark</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Riera</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Iborra</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Business &amp; Society</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1473</first-page>
+<last-page>1511</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/00076503211015911</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Clark, C. E., Riera, M., &amp; Iborra, M. (2022). Toward a theoretical framework of corporate social irresponsibility: Clarifying the gray zones between responsibility and irresponsibility. Business &amp; Society, 61(6),1473–1511. https://doi.org/10.1177/00076503211015911</ref-fulltext>
+<ce:source-text>Clark, C. E., Riera, M., &amp; Iborra, M. (2022). Toward a theoretical framework of corporate social irresponsibility: Clarifying the gray zones between responsibility and irresponsibility. Business &amp; Society, 61(6),1473–1511. https://doi.org/10.1177/00076503211015911</ce:source-text>
+</reference>
+<reference seq="384">
+<ref-info>
+<ref-title>
+<ref-titletext-english>An organizational learning framework: From intuition to institution</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Crossan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.W.</ce:initials>
+<ce:surname>Lane</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.E.</ce:initials>
+<ce:surname>White</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Academy of Management Review</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>522</first-page>
+<last-page>537</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.5465/amr.1999.2202135</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Crossan, M. M., Lane, H. W., &amp; White, R. E. (1999). An organizational learning framework: From intuition to institution. Academy of Management Review, 24(3), 522–537. https:// doi.org/10.5465/amr.1999.2202135</ref-fulltext>
+<ce:source-text>Crossan, M. M., Lane, H. W., &amp; White, R. E. (1999). An organizational learning framework: From intuition to institution. Academy of Management Review, 24(3), 522–537. https:// doi.org/10.5465/amr.1999.2202135</ce:source-text>
+</reference>
+<reference seq="385">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Unitarism and employer resistance to trade unionism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Cullinane</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Dundon</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Human Resource Management</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+<iss-first>18</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2573</first-page>
+<last-page>2590</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cullinane, N., &amp; Dundon, T. (2014). Unitarism and employer resistance to trade unionism. International Journal of Human Resource Management, 25(18), 2573–2590.</ref-fulltext>
+<ce:source-text>Cullinane, N., &amp; Dundon, T. (2014). Unitarism and employer resistance to trade unionism. International Journal of Human Resource Management, 25(18), 2573–2590.</ce:source-text>
+</reference>
+<reference seq="386">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Social partners or full-fledged stakeholders? Trade unions and CSR in europe (France, Germany and the UK)</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Delbard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Society and Business Review</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>260</first-page>
+<last-page>277</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/17465681111171000</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Delbard, O. (2011). Social partners or full-fledged stakeholders? Trade unions and CSR in europe (France, Germany and the UK). Society and Business Review, 6(3),260–277. https://doi.org/10.1108/17465681111171000</ref-fulltext>
+<ce:source-text>Delbard, O. (2011). Social partners or full-fledged stakeholders? Trade unions and CSR in europe (France, Germany and the UK). Society and Business Review, 6(3),260–277. https://doi.org/10.1108/17465681111171000</ce:source-text>
+</reference>
+<reference seq="387">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Unions and nonunion pay in the United States, 1977– 2015</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Denice</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Rosenfeld</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sociological Science</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>23</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>541</first-page>
+<last-page>561</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.15195/v5.a23</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Denice, P., &amp; Rosenfeld, J. (2018). Unions and nonunion pay in the United States, 1977– 2015. Sociological Science, 5(23), 541–561. https://doi.org/10.15195/v5.a23</ref-fulltext>
+<ce:source-text>Denice, P., &amp; Rosenfeld, J. (2018). Unions and nonunion pay in the United States, 1977– 2015. Sociological Science, 5(23), 541–561. https://doi.org/10.15195/v5.a23</ce:source-text>
+</reference>
+<reference seq="388">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Department for Business and Trade, &amp; Department for Business, Energy &amp; Industrial Strategy</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Trade Union Statistics</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">. https://www.gov.uk/government/collections/trade-union-statistics</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Department for Business and Trade, &amp; Department for Business, Energy &amp; Industrial Strategy (2023). Trade union statistics. Gov.uk. https://www.gov.uk/government/collections/ trade-union-statistics</ref-fulltext>
+<ce:source-text>Department for Business and Trade, &amp; Department for Business, Energy &amp; Industrial Strategy (2023). Trade union statistics. Gov.uk. https://www.gov.uk/government/collections/ trade-union-statistics</ce:source-text>
+</reference>
+<reference seq="389">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Teams, autonomy, and the financial performance of firms</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Devaro</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Industrial Relations. a Journal of Economy &amp; Society</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>45</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>217</first-page>
+<last-page>269</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>DeVaro, J. (2006). Teams, autonomy, and the financial performance of firms. Industrial Relations. A Journal of Economy &amp; Society, 45(2), 217–269. https://doi.org/10.1111/j.1468-232X.2006.00425.x</ref-fulltext>
+<ce:source-text>DeVaro, J. (2006). Teams, autonomy, and the financial performance of firms. Industrial Relations. A Journal of Economy &amp; Society, 45(2), 217–269. https://doi.org/10.1111/j.1468-232X.2006.00425.x</ce:source-text>
+</reference>
+<reference seq="390">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Trade unions and hotel industry: Current trends</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Draskovic</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Pupavac</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Delibasic</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:surname>Bilan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of International Studies</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>104</first-page>
+<last-page>116</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Draskovic, V., Pupavac, J., Delibasic, M., &amp; Bilan, S. (2022). Trade unions and hotel industry: Current trends. Journal of International Studies, 15(1), 104–116.</ref-fulltext>
+<ce:source-text>Draskovic, V., Pupavac, J., Delibasic, M., &amp; Bilan, S. (2022). Trade unions and hotel industry: Current trends. Journal of International Studies, 15(1), 104–116.</ce:source-text>
+</reference>
+<reference seq="391">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Construct validation in organizational behavior research</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.R.</ce:initials>
+<ce:surname>Edwards</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organizational Behavior: The State of The Science</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>327</first-page>
+<last-page>371</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In J. Green- berg (Ed.), 2nd ed., Mahwah: Lawrence Erlbaum Associates Publishers</ref-text>
+</ref-info>
+<ref-fulltext>Edwards, J. R. (2003). Construct validation in organizational behavior research. In J. Green- berg (Ed.), Organizational behavior: The state of the science (2nd ed., pp. 327–371). Mahwah: Lawrence Erlbaum Associates Publishers.</ref-fulltext>
+<ce:source-text>Edwards, J. R. (2003). Construct validation in organizational behavior research. In J. Green- berg (Ed.), Organizational behavior: The state of the science (2nd ed., pp. 327–371). Mahwah: Lawrence Erlbaum Associates Publishers.</ce:source-text>
+</reference>
+<reference seq="392">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.I.</ce:initials>
+<ce:surname>Eisenberger</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Lieberman</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>K.D.</ce:initials>
+<ce:surname>Williams</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Does Rejection Hurt? An FMRI Study of Social Exclusion</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>302</vol-first>
+<iss-first>5643</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>290</first-page>
+<last-page>292</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Eisenberger N. I., Lieberman M. D., &amp; Williams K. D. (2003). Does rejection hurt? An FMRI study of social exclusion. Science, 302(5643), 290–292. https://doi.org/10.1126/ science.1089134.</ref-fulltext>
+<ce:source-text>Eisenberger N. I., Lieberman M. D., &amp; Williams K. D. (2003). Does rejection hurt? An FMRI study of social exclusion. Science, 302(5643), 290–292. https://doi.org/10.1126/ science.1089134.</ce:source-text>
+</reference>
+<reference seq="393">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Human resource management practices and worker desires for union rep- resentation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Fiorito</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Labor Research</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>335</first-page>
+<last-page>354</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Fiorito, J. (2001). Human resource management practices and worker desires for union rep- resentation. Journal of Labor Research, 22(2), 335–354. https://doi.org/10.1007/s12122-001-1038-3</ref-fulltext>
+<ce:source-text>Fiorito, J. (2001). Human resource management practices and worker desires for union rep- resentation. Journal of Labor Research, 22(2), 335–354. https://doi.org/10.1007/s12122-001-1038-3</ce:source-text>
+</reference>
+<reference seq="394">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Precarious work, young workers, and union-related attitudes: Distrust of employers, workplace collective efficacy, and union efficacy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Fiorito</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.G.</ce:initials>
+<ce:surname>Gallagher</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>Z.A.</ce:initials>
+<ce:surname>Russell</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>K.W.</ce:initials>
+<ce:surname>Thompson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Labor Studies Journal</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>46</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>5</first-page>
+<last-page>32</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Fiorito, J., Gallagher, D. G., Russell, Z. A., &amp; Thompson, K. W. (2021). Precarious work, young workers, and union-related attitudes: Distrust of employers, workplace collective efficacy, and union efficacy. Labor Studies Journal, 46(1), 5–32. https://doi.org/10.1177/0160449X19860908</ref-fulltext>
+<ce:source-text>Fiorito, J., Gallagher, D. G., Russell, Z. A., &amp; Thompson, K. W. (2021). Precarious work, young workers, and union-related attitudes: Distrust of employers, workplace collective efficacy, and union efficacy. Labor Studies Journal, 46(1), 5–32. https://doi.org/10.1177/0160449X19860908</ce:source-text>
+</reference>
+<reference seq="395">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Evaluating structural equation models with unobservable variables and measurement error</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Fornell</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.F.</ce:initials>
+<ce:surname>Larcker</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Marketing Research</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>39</first-page>
+<last-page>50</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Fornell, C., &amp; Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39–50.</ref-fulltext>
+<ce:source-text>Fornell, C., &amp; Larcker, D. F. (1981). Evaluating structural equation models with unobservable variables and measurement error. Journal of Marketing Research, 18(1), 39–50.</ce:source-text>
+</reference>
+<reference seq="396">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Young workers and trade unions</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.</ce:initials>
+<ce:surname>Diamond</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Representing Workers</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>113</first-page>
+<last-page>132</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In H. Gospel, &amp; S. Wood (Eds.), London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Freeman, R., &amp; Diamond, W. (2003). Young workers and trade unions. In H. Gospel, &amp; S. Wood (Eds.), Representing workers (pp. 113–132). London: Routledge.</ref-fulltext>
+<ce:source-text>Freeman, R., &amp; Diamond, W. (2003). Young workers and trade unions. In H. Gospel, &amp; S. Wood (Eds.), Representing workers (pp. 113–132). London: Routledge.</ce:source-text>
+</reference>
+<reference seq="397">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.B.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.L.</ce:initials>
+<ce:surname>Medoff</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>What Do Unions Do?</ref-sourcetitle>
+<ref-publicationyear first="1984"/>
+<ref-text>New York: Basic Books</ref-text>
+</ref-info>
+<ref-fulltext>Freeman, R. B., &amp; Medoff, J. L. (1984). What do unions do? New York: Basic Books.</ref-fulltext>
+<ce:source-text>Freeman, R. B., &amp; Medoff, J. L. (1984). What do unions do? New York: Basic Books.</ce:source-text>
+</reference>
+<reference seq="398">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Frijda</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Emotions</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<ref-text>Cambridge, England: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Frijda, N. (1986). The emotions. Cambridge, England: Cambridge University Press.</ref-fulltext>
+<ce:source-text>Frijda, N. (1986). The emotions. Cambridge, England: Cambridge University Press.</ce:source-text>
+</reference>
+<reference seq="399">
+<ref-info>
+<ref-title>
+<ref-titletext-english>British employer resistance to trade union recognition</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Gall</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Resource Management Journal</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>36</first-page>
+<last-page>53</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gall, G. (2004). British employer resistance to trade union recognition. Human Resource Management Journal, 14(2), 36–53.</ref-fulltext>
+<ce:source-text>Gall, G. (2004). British employer resistance to trade union recognition. Human Resource Management Journal, 14(2), 36–53.</ce:source-text>
+</reference>
+<reference seq="400">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Galvin</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Alt-Labor and the New Politics of workers’ Rights</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-text>New York: Russell Sage Foundation</ref-text>
+</ref-info>
+<ref-fulltext>Galvin, D. (2024). Alt-labor and the new politics of workers’ rights. New York: Russell Sage Foundation.</ref-fulltext>
+<ce:source-text>Galvin, D. (2024). Alt-labor and the new politics of workers’ rights. New York: Russell Sage Foundation.</ce:source-text>
+</reference>
+<reference seq="401">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Conceptualising patterns of career commitment: The leaving process in hospitality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Gebbels</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>I.S.</ce:initials>
+<ce:surname>Pantelidis</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:surname>Goss-Turner</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>126</first-page>
+<last-page>147</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-04-2019-0338</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Gebbels, M., Pantelidis, I. S., &amp; Goss-Turner, S. (2020). Conceptualising patterns of career commitment: The leaving process in hospitality. International Journal of Contemporary Hospitality Management, 32(1), 126–147. https://doi.org/10.1108/IJCHM-04-2019-0338</ref-fulltext>
+<ce:source-text>Gebbels, M., Pantelidis, I. S., &amp; Goss-Turner, S. (2020). Conceptualising patterns of career commitment: The leaving process in hospitality. International Journal of Contemporary Hospitality Management, 32(1), 126–147. https://doi.org/10.1108/IJCHM-04-2019-0338</ce:source-text>
+</reference>
+<reference seq="402">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Union formation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Godard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Sage Handbook of Industrial Relations</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>377</first-page>
+<last-page>405</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In P. Blyton, N. Bacon, J. Fiorito, &amp; E. Heery (Eds.), London: Sage</ref-text>
+</ref-info>
+<ref-fulltext>Godard, J. (2008). Union formation. In P. Blyton, N. Bacon, J. Fiorito, &amp; E. Heery (Eds.), The Sage handbook of industrial relations (pp. 377–405). London: Sage.</ref-fulltext>
+<ce:source-text>Godard, J. (2008). Union formation. In P. Blyton, N. Bacon, J. Fiorito, &amp; E. Heery (Eds.), The Sage handbook of industrial relations (pp. 377–405). London: Sage.</ce:source-text>
+</reference>
+<reference seq="403">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A typology of reviews: An analysis of 14 review types and associated methodologies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Grant</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Booth</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Health Information and Libraries Journal</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>91</first-page>
+<last-page>108</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Grant, M. J., &amp; Booth, A. (2009). A typology of reviews: An analysis of 14 review types and associated methodologies. Health Information and Libraries Journal, 26, 91–108. https://doi.org/10.1111/j.1471-1842.2009.00848.x</ref-fulltext>
+<ce:source-text>Grant, M. J., &amp; Booth, A. (2009). A typology of reviews: An analysis of 14 review types and associated methodologies. Health Information and Libraries Journal, 26, 91–108. https://doi.org/10.1111/j.1471-1842.2009.00848.x</ce:source-text>
+</reference>
+<reference seq="404">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The impact of human resource management practices on intention to leave of employees in the service industry in India: The mediating role of organizational commitment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Guchait</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Cho</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The International Journal of Human Resource Management</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>21</vol-first>
+<iss-first>8</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1228</first-page>
+<last-page>1247</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/09585192.2010.483845</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Guchait, P., &amp; Cho, S. (2010). The impact of human resource management practices on intention to leave of employees in the service industry in India: The mediating role of organizational commitment. The International Journal of Human Resource Management, 21(8), 1228–1247. https://doi.org/10.1080/09585192.2010.483845</ref-fulltext>
+<ce:source-text>Guchait, P., &amp; Cho, S. (2010). The impact of human resource management practices on intention to leave of employees in the service industry in India: The mediating role of organizational commitment. The International Journal of Human Resource Management, 21(8), 1228–1247. https://doi.org/10.1080/09585192.2010.483845</ce:source-text>
+</reference>
+<reference seq="405">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The biophilia hypothesis and life in the 21st century: Increasing mental health or increasing pathology?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Gullone</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Happiness Studies</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>293</first-page>
+<last-page>322</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gullone, E. (2000). The biophilia hypothesis and life in the 21st century: Increasing mental health or increasing pathology? Journal of Happiness Studies, 1(3), 293–322. https://doi.org/10.1023/A:1010043827986</ref-fulltext>
+<ce:source-text>Gullone, E. (2000). The biophilia hypothesis and life in the 21st century: Increasing mental health or increasing pathology? Journal of Happiness Studies, 1(3), 293–322. https://doi.org/10.1023/A:1010043827986</ce:source-text>
+</reference>
+<reference seq="406">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.F.</ce:initials>
+<ce:surname>Hair</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.C.</ce:initials>
+<ce:surname>Black</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.J.</ce:initials>
+<ce:surname>Babin</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>R.E.</ce:initials>
+<ce:surname>Anderson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Multivariate Data Analysis</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>(7th ed.). New York: Pearson Higher</ref-text>
+</ref-info>
+<ref-fulltext>Hair, J. F., Black, W. C., Babin, B. J., &amp; Anderson, R. E. (2013). Multivariate data analysis (7th ed.). New York: Pearson Higher</ref-fulltext>
+<ce:source-text>Hair, J. F., Black, W. C., Babin, B. J., &amp; Anderson, R. E. (2013). Multivariate data analysis (7th ed.). New York: Pearson Higher</ce:source-text>
+</reference>
+<reference seq="407">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.F.</ce:initials>
+<ce:surname>Hair</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>G.T.M.</ce:initials>
+<ce:surname>Hult</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>C.M.</ce:initials>
+<ce:surname>Ringle</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:surname>Sarstedt</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Primer on Partial Least Squares Structural Equation Modeling (PLS-SEM)</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>(3rd ed.). Thousand Oaks: Sage</ref-text>
+</ref-info>
+<ref-fulltext>Hair, J. F., Hult, G. T. M., Ringle, C. M., &amp; Sarstedt, M. (2022). A primer on partial least squares structural equation modeling (PLS-SEM) (3rd ed.). Thousand Oaks: Sage.</ref-fulltext>
+<ce:source-text>Hair, J. F., Hult, G. T. M., Ringle, C. M., &amp; Sarstedt, M. (2022). A primer on partial least squares structural equation modeling (PLS-SEM) (3rd ed.). Thousand Oaks: Sage.</ce:source-text>
+</reference>
+<reference seq="408">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Expanding the union zone: Union renewal through alternative forms of worker organization</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Haiven</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Labor Studies Journal</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>85</first-page>
+<last-page>116</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Haiven, L. (2006). Expanding the union zone: Union renewal through alternative forms of worker organization. Labor Studies Journal, 31(3), 85–116. https://doi.org/10.1177/0160449X0603100305</ref-fulltext>
+<ce:source-text>Haiven, L. (2006). Expanding the union zone: Union renewal through alternative forms of worker organization. Labor Studies Journal, 31(3), 85–116. https://doi.org/10.1177/0160449X0603100305</ce:source-text>
+</reference>
+<reference seq="409">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Hankiss</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Fears and Symbols: An Introduction to the Study of Western Civilization</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-text>Budapest: Central European University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hankiss, E. (2001). Fears and symbols: An introduction to the study of Western civilization. Budapest: Central European University Press.</ref-fulltext>
+<ce:source-text>Hankiss, E. (2001). Fears and symbols: An introduction to the study of Western civilization. Budapest: Central European University Press.</ce:source-text>
+</reference>
+<reference seq="410">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Explaining the younger-older union density gap: Evidence from New Zealand</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Haynes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Vowles</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>P.</ce:initials>
+<ce:surname>Boxall</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Industrial Relations</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>43</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>93</first-page>
+<last-page>116</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Haynes, P., Vowles, P., &amp; Boxall, P. (2005). Explaining the younger-older union density gap: Evidence from New Zealand. British Journal of Industrial Relations, 43(1), 93–116.</ref-fulltext>
+<ce:source-text>Haynes, P., Vowles, P., &amp; Boxall, P. (2005). Explaining the younger-older union density gap: Evidence from New Zealand. British Journal of Industrial Relations, 43(1), 93–116.</ce:source-text>
+</reference>
+<reference seq="411">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A new criterion for assessing discriminant validity in variance-based structural equation modeling</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Henseler</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.M.</ce:initials>
+<ce:surname>Ringle</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Sarstedt</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of the Academy of Marketing Science</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>43</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>115</first-page>
+<last-page>135</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Henseler, J., Ringle, C. M., &amp; Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115–135.</ref-fulltext>
+<ce:source-text>Henseler, J., Ringle, C. M., &amp; Sarstedt, M. (2015). A new criterion for assessing discriminant validity in variance-based structural equation modeling. Journal of the Academy of Marketing Science, 43(1), 115–135.</ce:source-text>
+</reference>
+<reference seq="412">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Organizational commitment versus career commitment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Herachwati</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rachma</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>KnE Social Sciences</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+<iss-first>10</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.18502/kss.v3i10.3388</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Herachwati, N., &amp; Rachma, A. (2018). Organizational commitment versus career commitment. KnE Social Sciences, 3(10). https://doi.org/10.18502/kss.v3i10.3388</ref-fulltext>
+<ce:source-text>Herachwati, N., &amp; Rachma, A. (2018). Organizational commitment versus career commitment. KnE Social Sciences, 3(10). https://doi.org/10.18502/kss.v3i10.3388</ce:source-text>
+</reference>
+<reference seq="413">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.A.</ce:initials>
+<ce:surname>Hill</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.A.</ce:initials>
+<ce:surname>O’Hara</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Cognitive Theory of Trust. Washington University Law Review</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>84</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>1717</ref-text>
+</ref-info>
+<ref-fulltext>Hill, C. A., &amp; O’Hara, E. A. (2006). A cognitive theory of trust. Washington University Law Review, 84, 1717.</ref-fulltext>
+<ce:source-text>Hill, C. A., &amp; O’Hara, E. A. (2006). A cognitive theory of trust. Washington University Law Review, 84, 1717.</ce:source-text>
+</reference>
+<reference seq="414">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A brief tutorial on the development of measures for use in survey ques- tionnaires</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.R.</ce:initials>
+<ce:surname>Hinkin</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organizational Research Methods</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>104</first-page>
+<last-page>121</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hinkin, T. R. (1998). A brief tutorial on the development of measures for use in survey ques- tionnaires. Organizational Research Methods, 1(1), 104–121.</ref-fulltext>
+<ce:source-text>Hinkin, T. R. (1998). A brief tutorial on the development of measures for use in survey ques- tionnaires. Organizational Research Methods, 1(1), 104–121.</ce:source-text>
+</reference>
+<reference seq="415">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Old dusty men”? Young people and trade unions in the UK</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Hodder</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Young workers and trade unions. A global view</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>162</first-page>
+<last-page>176</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In A. Hod- der &amp; L. Kretsos (Eds.), Basingstoke: Palgrave Macmillan</ref-text>
+</ref-info>
+<ref-fulltext>Hodder, A. (2015). “Old dusty men”? Young people and trade unions in the UK. In A. Hod- der &amp; L. Kretsos (Eds.), Young workers and trade unions. A global view (pp. 162–176). Basingstoke: Palgrave Macmillan.</ref-fulltext>
+<ce:source-text>Hodder, A. (2015). “Old dusty men”? Young people and trade unions in the UK. In A. Hod- der &amp; L. Kretsos (Eds.), Young workers and trade unions. A global view (pp. 162–176). Basingstoke: Palgrave Macmillan.</ce:source-text>
+</reference>
+<reference seq="416">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Unions, social media and young workers – Evidence from the UK</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Hodder</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.J.</ce:initials>
+<ce:surname>Houghton</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Technology, Work and Employment.</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>40</first-page>
+<last-page>59</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hodder, A., &amp; Houghton, D. J. (2020). Unions, social media and young workers – Evidence from the UK. New Technology, Work and Employment, 35(1), 40–59.. https://doi.org/10.1111/ntwe.12154</ref-fulltext>
+<ce:source-text>Hodder, A., &amp; Houghton, D. J. (2020). Unions, social media and young workers – Evidence from the UK. New Technology, Work and Employment, 35(1), 40–59.https://doi.org/10.1111/ntwe.12154</ce:source-text>
+</reference>
+<reference seq="417">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Understanding trade union usage of social media: A case study of the public and commercial services union on Facebook and Twitter</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.J.</ce:initials>
+<ce:surname>Houghton</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Hodder</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Technology, Work and Employment</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>219</first-page>
+<last-page>239</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/ntwe.12209</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Houghton, D. J., &amp; Hodder, A. (2021). Understanding trade union usage of social media: A case study of the public and commercial services union on Facebook and Twitter. New Technology, Work and Employment, 36(2), 219–239. https://doi.org/10.1111/ntwe.12209</ref-fulltext>
+<ce:source-text>Houghton, D. J., &amp; Hodder, A. (2021). Understanding trade union usage of social media: A case study of the public and commercial services union on Facebook and Twitter. New Technology, Work and Employment, 36(2), 219–239. https://doi.org/10.1111/ntwe.12209</ce:source-text>
+</reference>
+<reference seq="418">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Corporate social irresponsibility: What we know and what we need to know</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Iborra</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Riera</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Corporate Social Responsibility and Environmental Management</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1421</first-page>
+<last-page>1439</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1002/csr.2428</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Iborra, M., &amp; Riera, M. (2023). Corporate social irresponsibility: What we know and what we need to know. Corporate Social Responsibility and Environmental Management, 30(3), 1421–1439. https://doi.org/10.1002/csr.2428</ref-fulltext>
+<ce:source-text>Iborra, M., &amp; Riera, M. (2023). Corporate social irresponsibility: What we know and what we need to know. Corporate Social Responsibility and Environmental Management, 30(3), 1421–1439. https://doi.org/10.1002/csr.2428</ce:source-text>
+</reference>
+<reference seq="419">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Anything Goes? Exploring the Limits of Employment Law in UK Hospitality and Catering</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Ioannou</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Dukes</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Industrial Relations Journal</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>52</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>255</first-page>
+<last-page>269</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ioannou, G., &amp; Dukes, R. (2021). Anything goes? Exploring the limits of employment law in UK hospitality and catering. Industrial Relations Journal, 52(3), 255–269. https://doi.org/10.1111/IRJ.12329</ref-fulltext>
+<ce:source-text>Ioannou, G., &amp; Dukes, R. (2021). Anything goes? Exploring the limits of employment law in UK hospitality and catering. Industrial Relations Journal, 52(3), 255–269. https://doi.org/10.1111/IRJ.12329</ce:source-text>
+</reference>
+<reference seq="420">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Silenced by fear: The nature, sources, and consequences of fear at work</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.J.</ce:initials>
+<ce:surname>Kish-Gephart</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.R.</ce:initials>
+<ce:surname>Detert</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>L.K.</ce:initials>
+<ce:surname>Treviño</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>A.C.</ce:initials>
+<ce:surname>Edmondson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Research in Organizational Behavior</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>163</first-page>
+<last-page>193</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kish-Gephart, J. J., Detert, J. R., Treviño, L. K., &amp; Edmondson, A. C. (2009). Silenced by fear: The nature, sources, and consequences of fear at work. Research in Organizational Behavior, 29, 163–193.</ref-fulltext>
+<ce:source-text>Kish-Gephart, J. J., Detert, J. R., Treviño, L. K., &amp; Edmondson, A. C. (2009). Silenced by fear: The nature, sources, and consequences of fear at work. Research in Organizational Behavior, 29, 163–193.</ce:source-text>
+</reference>
+<reference seq="421">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Citizenship behavior and social exchange</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Konovsky</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.S.</ce:initials>
+<ce:surname>Pugh</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Academy of Management Journal</ref-sourcetitle>
+<ref-publicationyear first="1994"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>37</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>656</first-page>
+<last-page>669</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Konovsky, M. A., &amp; Pugh, D. S. (1994). Citizenship behavior and social exchange. Academy of Management Journal, 37(3), 656–669.</ref-fulltext>
+<ce:source-text>Konovsky, M. A., &amp; Pugh, D. S. (1994). Citizenship behavior and social exchange. Academy of Management Journal, 37(3), 656–669.</ce:source-text>
+</reference>
+<reference seq="422">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Promises and problems with the circumplex model of emotion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Larsen</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Diener</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Emotion and Social Behavior</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>25</first-page>
+<last-page>59</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In M. S. Clark (Ed.), New York: Sage</ref-text>
+</ref-info>
+<ref-fulltext>Larsen, R. J., &amp; Diener, E. (1992). Promises and problems with the circumplex model of emotion. In M. S. Clark (Ed.), Emotion and social behavior (pp. 25–59). New York: Sage.</ref-fulltext>
+<ce:source-text>Larsen, R. J., &amp; Diener, E. (1992). Promises and problems with the circumplex model of emotion. In M. S. Clark (Ed.), Emotion and social behavior (pp. 25–59). New York: Sage.</ce:source-text>
+</reference>
+<reference seq="423">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The CSR bottom line: Preventing corporate social irresponsibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Lin-Hi</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Müller</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Business Research</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>66</vol-first>
+<iss-first>10</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1928</first-page>
+<last-page>1936</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.jbusres.2013.02.015</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Lin-Hi, N., &amp; Müller, K. (2013). The CSR bottom line: Preventing corporate social irresponsibility. Journal of Business Research, 66(10), 1928–1936. https://doi.org/10.1016/j.jbusres.2013.02.015</ref-fulltext>
+<ce:source-text>Lin-Hi, N., &amp; Müller, K. (2013). The CSR bottom line: Preventing corporate social irresponsibility. Journal of Business Research, 66(10), 1928–1936. https://doi.org/10.1016/j.jbusres.2013.02.015</ce:source-text>
+</reference>
+<reference seq="424">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A model for labor’s renewal? The Starbucks campaign</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Logan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Labor Forum</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>87</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/10957960221144972</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Logan, J. (2023). A model for labor’s renewal? The Starbucks campaign. New Labor Forum, 32(1), 87–94. https://doi.org/10.1177/10957960221144972</ref-fulltext>
+<ce:source-text>Logan, J. (2023). A model for labor’s renewal? The Starbucks campaign. New Labor Forum, 32(1), 87–94. https://doi.org/10.1177/10957960221144972</ce:source-text>
+</reference>
+<reference seq="425">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Antecedents of union support in the United States hospitality industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.M.</ce:initials>
+<ce:surname>Lowery</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.A.</ce:initials>
+<ce:surname>Beadles</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>W.J.</ce:initials>
+<ce:surname>Miller</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Human Resources in Hospitality and Tourism</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>275</first-page>
+<last-page>298</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/15332845.2019.1599782</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Lowery, C. M., Beadles, N. A., &amp; Miller, W. J. (2019). Antecedents of union support in the United States hospitality industry. Journal of Human Resources in Hospitality and Tourism, 18(3), 275–298. https://doi.org/10.1080/15332845.2019.1599782</ref-fulltext>
+<ce:source-text>Lowery, C. M., Beadles, N. A., &amp; Miller, W. J. (2019). Antecedents of union support in the United States hospitality industry. Journal of Human Resources in Hospitality and Tourism, 18(3), 275–298. https://doi.org/10.1080/15332845.2019.1599782</ce:source-text>
+</reference>
+<reference seq="426">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Is low unionisation in the British hospitality industry due to industry char- acteristics?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Lucas</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>42</first-page>
+<last-page>52</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lucas, R. (2009). Is low unionisation in the British hospitality industry due to industry char- acteristics? International Journal of Hospitality Management, 28(1), 42–52.</ref-fulltext>
+<ce:source-text>Lucas, R. (2009). Is low unionisation in the British hospitality industry due to industry char- acteristics? International Journal of Hospitality Management, 28(1), 42–52.</ce:source-text>
+</reference>
+<reference seq="427">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Exploring the concept and measurement of general risk aversion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.A.</ce:initials>
+<ce:surname>Mandrik</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Bao</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Advances in Consumer Research</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>531</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mandrik, C. A., &amp; Bao, Y. (2005). Exploring the concept and measurement of general risk aversion. Advances in Consumer Research, 32, 531.</ref-fulltext>
+<ce:source-text>Mandrik, C. A., &amp; Bao, Y. (2005). Exploring the concept and measurement of general risk aversion. Advances in Consumer Research, 32, 531.</ce:source-text>
+</reference>
+<reference seq="428">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.G.</ce:initials>
+<ce:surname>March</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.A.</ce:initials>
+<ce:surname>Simon</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organizations</ref-sourcetitle>
+<ref-publicationyear first="1958"/>
+<ref-text>John Wiley and Sons, Inc</ref-text>
+</ref-info>
+<ref-fulltext>March, J. G., &amp; Simon, H. A. (1958). Organizations. John Wiley and Sons, Inc.</ref-fulltext>
+<ce:source-text>March, J. G., &amp; Simon, H. A. (1958). Organizations. John Wiley and Sons, Inc.</ce:source-text>
+</reference>
+<reference seq="429">
+<ref-info>
+<ref-title>
+<ref-titletext-english>What do platform workers in the UK gig economy want?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Martindale</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.J.</ce:initials>
+<ce:surname>Wood</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.J.</ce:initials>
+<ce:surname>Burchell</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Industrial Relations</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>26</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Martindale, N., Wood, A. J., &amp; Burchell, B. J.. (2024). What do platform workers in the UK gig economy want? British Journal of Industrial Relations, 1–26. https://doi.org/10.1111/bjir.12797</ref-fulltext>
+<ce:source-text>Martindale, N., Wood, A. J., &amp; Burchell, B. J.. (2024). What do platform workers in the UK gig economy want? British Journal of Industrial Relations, 1–26. https://doi.org/10.1111/bjir.12797</ce:source-text>
+</reference>
+<reference seq="430">
+<ref-info>
+<ref-title>
+<ref-titletext-english>An integrative model of organizational trust</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:surname>Mayer</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.H.</ce:initials>
+<ce:surname>Davis</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>F.D.</ce:initials>
+<ce:surname>Schoorman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Academy of Management Review</ref-sourcetitle>
+<ref-publicationyear first="1995"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>709</first-page>
+<last-page>734</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.2307/258792</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Mayer, R. C., Davis, J. H., &amp; Schoorman, F. D. (1995). An integrative model of organizational trust. Academy of Management Review, 20(3), 709–734. https://doi.org/10.2307/258792</ref-fulltext>
+<ce:source-text>Mayer, R. C., Davis, J. H., &amp; Schoorman, F. D. (1995). An integrative model of organizational trust. Academy of Management Review, 20(3), 709–734. https://doi.org/10.2307/258792</ce:source-text>
+</reference>
+<reference seq="431">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Differentiating antecedents of organizational commitment: A test of March and Simon’s model</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:surname>Mayer</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>F.D.</ce:initials>
+<ce:surname>Schoorman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Organizational Behaviour</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>19</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>15</first-page>
+<last-page>28</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://psycnet.apa.org/doi/10.1002/(SICI)1099-1379(199801)19:1%3C15::AID-JOB816%3E3.0.CO;2-C</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Mayer, R. C., &amp; Schoorman, F. D. (1998). Differentiating antecedents of organizational commitment: A test of March and Simon’s model. Journal of Organizational Behaviour, 19(1), 15–28. https://psycnet.apa.org/doi/10.1002/(SICI)1099-1379(199801)19:1%3C15::AID-JOB816%3E3.0.CO;2-C</ref-fulltext>
+<ce:source-text>Mayer, R. C., &amp; Schoorman, F. D. (1998). Differentiating antecedents of organizational commitment: A test of March and Simon’s model. Journal of Organizational Behaviour, 19(1), 15–28. https://psycnet.apa.org/doi/10.1002/(SICI)1099-1379(199801)19:1%3C15::AID-JOB816%3E3.0.CO;2-C</ce:source-text>
+</reference>
+<reference seq="432">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reform labour laws to tackle inequality in America. By invitation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>McNicholas</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Economist.</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://www.economist.com/by-invitation/2022/07/18/reform-labour-laws-to-tackle-inequality-in-america-urges-celine-mcnicholas</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>McNicholas, C. (2022). Reform labour laws to tackle inequality in America. By invitation. The Economist. https://www.economist.com/by-invitation/2022/07/18/reform-labour-laws-to-tackle-inequality-in-america-urges-celine-mcnicholas</ref-fulltext>
+<ce:source-text>McNicholas, C. (2022). Reform labour laws to tackle inequality in America. By invitation. The Economist. https://www.economist.com/by-invitation/2022/07/18/reform-labour-laws-to-tackle-inequality-in-america-urges-celine-mcnicholas</ce:source-text>
+</reference>
+<reference seq="433">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The influence of leadership and member attitudes in understanding the nature of union participation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Metochi</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Industrial Relations</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>40</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>87</first-page>
+<last-page>111</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/1467-8543.00224</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Metochi, M. (2002). The influence of leadership and member attitudes in understanding the nature of union participation. British Journal of Industrial Relations, 40(1), 87–111. https://doi.org/10.1111/1467-8543.00224</ref-fulltext>
+<ce:source-text>Metochi, M. (2002). The influence of leadership and member attitudes in understanding the nature of union participation. British Journal of Industrial Relations, 40(1), 87–111. https://doi.org/10.1111/1467-8543.00224</ce:source-text>
+</reference>
+<reference seq="434">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A three-component conceptualization of organiza- tional commitment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.P.</ce:initials>
+<ce:surname>Meyer</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.J.</ce:initials>
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Resource Management Review</ref-sourcetitle>
+<ref-publicationyear first="1991"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>61</first-page>
+<last-page>89</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Meyer, J. P., &amp; Allen, N. J. (1991). A three-component conceptualization of organiza- tional commitment. Human Resource Management Review, 1(1), 61–89. https://doi.org/10.1016/1053-4822(91)90011-Z</ref-fulltext>
+<ce:source-text>Meyer, J. P., &amp; Allen, N. J. (1991). A three-component conceptualization of organiza- tional commitment. Human Resource Management Review, 1(1), 61–89. https://doi.org/10.1016/1053-4822(91)90011-Z</ce:source-text>
+</reference>
+<reference seq="435">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Gender, class, and the gig economy: The case of platform-based food delivery</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Milkman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Elliott-Negri</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>K.</ce:initials>
+<ce:surname>Griesbach</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>A.</ce:initials>
+<ce:surname>Reich</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Critical Sociology</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>357</first-page>
+<last-page>372</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Milkman, R., Elliott-Negri, L., Griesbach, K., &amp; Reich, A. (2021). Gender, class, and the gig economy: The case of platform-based food delivery. Critical Sociology, 47(3), 357–372.</ref-fulltext>
+<ce:source-text>Milkman, R., Elliott-Negri, L., Griesbach, K., &amp; Reich, A. (2021). Gender, class, and the gig economy: The case of platform-based food delivery. Critical Sociology, 47(3), 357–372.</ce:source-text>
+</reference>
+<reference seq="436">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fear and anxiety in the face of COVID-19: Negative dispositions towards risk and uncertainty as vulnerability factors</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Millroth</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Frey</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Anxiety Disorders</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>83</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>102454</ref-text>
+</ref-info>
+<ref-fulltext>Millroth, P., &amp; Frey, R. (2021). Fear and anxiety in the face of COVID-19: Negative dispositions towards risk and uncertainty as vulnerability factors. Journal of Anxiety Disorders, 83, 102454</ref-fulltext>
+<ce:source-text>Millroth, P., &amp; Frey, R. (2021). Fear and anxiety in the face of COVID-19: Negative dispositions towards risk and uncertainty as vulnerability factors. Journal of Anxiety Disorders, 83, 102454</ce:source-text>
+</reference>
+<reference seq="437">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Mishel</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Bivens</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Identifying the Policy Levers Generating Wage Suppression and Wage Inequality</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Washington: Economic Policy Institute</ref-text>
+</ref-info>
+<ref-fulltext>Mishel, L., &amp; Bivens, J. (2021). Identifying the policy levers generating wage suppression and wage inequality. Washington: Economic Policy Institute..</ref-fulltext>
+<ce:source-text>Mishel, L., &amp; Bivens, J. (2021). Identifying the policy levers generating wage suppression and wage inequality. Washington: Economic Policy Institute..</ce:source-text>
+</reference>
+<reference seq="438">
+<ref-info>
+<ref-title>
+<ref-titletext-english>the measurement of organizational commitment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.T.</ce:initials>
+<ce:surname>Mowday</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.M.</ce:initials>
+<ce:surname>Steers</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>L.W.</ce:initials>
+<ce:surname>Porter</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Vocational Behaviour</ref-sourcetitle>
+<ref-publicationyear first="1979"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>224</first-page>
+<last-page>247</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mowday, R. T., Steers, R. M. and Porter, L. W. (1979). the measurement of organizational commitment. Journal of Vocational Behaviour, 14, 224–247. http://dx.doi.org/10.1016/0001-8791(79)90072-1</ref-fulltext>
+<ce:source-text>Mowday, R. T., Steers, R. M. and Porter, L. W. (1979). the measurement of organizational commitment. Journal of Vocational Behaviour, 14, 224–247. http://dx.doi.org/10.1016/0001-8791(79)90072-1</ce:source-text>
+</reference>
+<reference seq="439">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.T.</ce:initials>
+<ce:surname>Mowday</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.W.</ce:initials>
+<ce:surname>Porter</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.W.</ce:initials>
+<ce:surname>Steers</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Employee-Organisation Linkages: The Psychology of Commitment, Absenteeism, and Turnover</ref-sourcetitle>
+<ref-publicationyear first="1982"/>
+<ref-text>New York: Academic Press</ref-text>
+</ref-info>
+<ref-fulltext>Mowday, R. T., Porter, L. W., &amp; Steers, R. W. (1982). Employee-organisation linkages: The psychology of commitment, absenteeism, and turnover. New York: Academic Press.</ref-fulltext>
+<ce:source-text>Mowday, R. T., Porter, L. W., &amp; Steers, R. W. (1982). Employee-organisation linkages: The psychology of commitment, absenteeism, and turnover. New York: Academic Press.</ce:source-text>
+</reference>
+<reference seq="440">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fear and leadership in union organizing campaigns: An examination of workplace activist behavior.</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Murphy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Workplace Rights</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>11</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>January-March</ref-text>
+</ref-info>
+<ref-fulltext>Murphy, C. (2016) Fear and leadership in union organizing campaigns: An examination of workplace activist behavior. Journal of Workplace Rights, January-March, 1–11.</ref-fulltext>
+<ce:source-text>Murphy, C. (2016) Fear and leadership in union organizing campaigns: An examination of workplace activist behavior. Journal of Workplace Rights, January-March, 1–11.</ce:source-text>
+</reference>
+<reference seq="441">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>NLRA</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>National Labor Relations Act, 29 U.S.C. §§</ref-sourcetitle>
+<ref-publicationyear first="1935"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>151</first-page>
+<last-page>169</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>NLRA (1935). National Labor Relations Act, 29 U.S.C. §§ 151–169. https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act</ref-fulltext>
+<ce:source-text>NLRA (1935). National Labor Relations Act, 29 U.S.C. §§ 151–169. https://www.nlrb.gov/guidance/key-reference-materials/national-labor-relations-act</ce:source-text>
+</reference>
+<reference seq="442">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>NLRB</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Case Search.</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://www.nlrb.gov/search/case</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>NLRB (2024). Case search. https://www.nlrb.gov/search/case</ref-fulltext>
+<ce:source-text>NLRB (2024). Case search. https://www.nlrb.gov/search/case</ce:source-text>
+</reference>
+<reference seq="443">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fear and anxiety: Evolutionary, cognitive and clinical perspectives</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ohman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Handbook of Emotions</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>573</first-page>
+<last-page>593</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In M. Lewis &amp; J. M. Haviland-Jones (Eds.), 2nd ed., New York: Guilford Press</ref-text>
+</ref-info>
+<ref-fulltext>Ohman, A. (2000). Fear and anxiety: Evolutionary, cognitive and clinical perspectives. In M. Lewis &amp; J. M. Haviland-Jones (Eds.), Handbook of emotions (2nd ed., pp. 573–593). New York: Guilford Press.</ref-fulltext>
+<ce:source-text>Ohman, A. (2000). Fear and anxiety: Evolutionary, cognitive and clinical perspectives. In M. Lewis &amp; J. M. Haviland-Jones (Eds.), Handbook of emotions (2nd ed., pp. 573–593). New York: Guilford Press.</ce:source-text>
+</reference>
+<reference seq="444">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ohman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Mineka</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychological Review</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>108</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>483</first-page>
+<last-page>522</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ohman, A., &amp; Mineka, S. (2001). Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning. Psychological Review, 108(3), 483–522. https://doi.org/10.1037/0033-295X.108.3.483</ref-fulltext>
+<ce:source-text>Ohman, A., &amp; Mineka, S. (2001). Fears, phobias, and preparedness: Toward an evolved module of fear and fear learning. Psychological Review, 108(3), 483–522. https://doi.org/10.1037/0033-295X.108.3.483</ce:source-text>
+</reference>
+<reference seq="445">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Working in hospitality and catering in Greece and the UK: Do trade union membership and collective bargaining still matter?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Papadopoulos</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>G.</ce:initials>
+<ce:surname>Ioannou</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Industrial Relations</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>105</first-page>
+<last-page>122</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Papadopoulos, O., &amp; Ioannou, G. (2023). Working in hospitality and catering in Greece and the UK: Do trade union membership and collective bargaining still matter? European Journal of Industrial Relations, 29(1), 105–122</ref-fulltext>
+<ce:source-text>Papadopoulos, O., &amp; Ioannou, G. (2023). Working in hospitality and catering in Greece and the UK: Do trade union membership and collective bargaining still matter? European Journal of Industrial Relations, 29(1), 105–122</ce:source-text>
+</reference>
+<reference seq="446">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Violation and lack of awareness of employment rights in the United Kingdom’s hotel industry: Isolation, fragmentation and barriers to labour enforcement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Papadopoulos</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Lopez-Andreu</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Jamalian</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Industrial Relations Journal</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>52</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>315</first-page>
+<last-page>330</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/irj.12337</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Papadopoulos, O., Lopez-Andreu, M., &amp; Jamalian, M. (2021). Violation and lack of awareness of employment rights in the United Kingdom’s hotel industry: Isolation, fragmentation and barriers to labour enforcement. Industrial Relations Journal, 52(4), 315–330. https://doi.org/10.1111/irj.12337</ref-fulltext>
+<ce:source-text>Papadopoulos, O., Lopez-Andreu, M., &amp; Jamalian, M. (2021). Violation and lack of awareness of employment rights in the United Kingdom’s hotel industry: Isolation, fragmentation and barriers to labour enforcement. Industrial Relations Journal, 52(4), 315–330. https://doi.org/10.1111/irj.12337</ce:source-text>
+</reference>
+<reference seq="447">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Labor union effects on wage gains: A survey of recent literature</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.J.</ce:initials>
+<ce:surname>Parsley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Economic Literature</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>31</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Parsley, C. J. (1980). Labor union effects on wage gains: A survey of recent literature. Journal of Economic Literature, 18(1), 1–31.</ref-fulltext>
+<ce:source-text>Parsley, C. J. (1980). Labor union effects on wage gains: A survey of recent literature. Journal of Economic Literature, 18(1), 1–31.</ce:source-text>
+</reference>
+<reference seq="448">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Common method biases in behavioral research: A critical review of the literature and recommended remedies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.M.</ce:initials>
+<ce:surname>Podsakoff</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.B.</ce:initials>
+<ce:surname>Mackenzie</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.Y.</ce:initials>
+<ce:surname>Lee</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>N.P.</ce:initials>
+<ce:surname>Podsakoff</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Applied Psychology</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>88</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>879</first-page>
+<last-page>903</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., &amp; Podsakoff, N. P. (2003). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879–903.</ref-fulltext>
+<ce:source-text>Podsakoff, P. M., MacKenzie, S. B., Lee, J. Y., &amp; Podsakoff, N. P. (2003). Common method biases in behavioral research: A critical review of the literature and recommended remedies. Journal of Applied Psychology, 88(5), 879–903.</ce:source-text>
+</reference>
+<reference seq="449">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Power</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Dalgleish</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cognition and Emotion</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>London: Psychology Press</ref-text>
+</ref-info>
+<ref-fulltext>Power, M., &amp; Dalgleish, T. (2008). Cognition and emotion. London: Psychology Press.</ref-fulltext>
+<ce:source-text>Power, M., &amp; Dalgleish, T. (2008). Cognition and emotion. London: Psychology Press.</ce:source-text>
+</reference>
+<reference seq="450">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Rachman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Fear and Courage</ref-sourcetitle>
+<ref-publicationyear first="1990"/>
+<ref-text>San Francisco: W. H. Freeman</ref-text>
+</ref-info>
+<ref-fulltext>Rachman, S. (1990). Fear and courage. San Francisco: W. H. Freeman.</ref-fulltext>
+<ce:source-text>Rachman, S. (1990). Fear and courage. San Francisco: W. H. Freeman.</ce:source-text>
+</reference>
+<reference seq="451">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Looking at the darker side of the mirror: The impact of CEO’s narcissism on corporate social irresponsibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Riera</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Iborra</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Management and Business Economics.</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/EJMBE-09-2022-0289</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Riera, M., &amp; Iborra, M. (2023). Looking at the darker side of the mirror: The impact of CEO’s narcissism on corporate social irresponsibility. European Journal of Management and Business Economics. https://doi.org/10.1108/EJMBE-09-2022-0289</ref-fulltext>
+<ce:source-text>Riera, M., &amp; Iborra, M. (2023). Looking at the darker side of the mirror: The impact of CEO’s narcissism on corporate social irresponsibility. European Journal of Management and Business Economics. https://doi.org/10.1108/EJMBE-09-2022-0289</ce:source-text>
+</reference>
+<reference seq="452">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Some social and historical perspectives on unionization in the UK hotel industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Riley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="1985"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>4</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>99</first-page>
+<last-page>104</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Riley, M. (1985). Some social and historical perspectives on unionization in the UK hotel industry. International Journal of Hospitality Management, 4(3), 99–104.</ref-fulltext>
+<ce:source-text>Riley, M. (1985). Some social and historical perspectives on unionization in the UK hotel industry. International Journal of Hospitality Management, 4(3), 99–104.</ce:source-text>
+</reference>
+<reference seq="453">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Monkey see, monkey do: The influence of work groups on the antisocial behavior of employees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.M.</ce:initials>
+<ce:surname>O’leary-Kelly</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Academy of Management Journal</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>41</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>658</first-page>
+<last-page>672</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.2307/256963</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Robinson, S. L., &amp; O’Leary-Kelly, A. M. (1998). Monkey see, monkey do: The influence of work groups on the antisocial behavior of employees. The Academy of Management Journal, 41(6), 658–672. https://doi.org/10.2307/256963</ref-fulltext>
+<ce:source-text>Robinson, S. L., &amp; O’Leary-Kelly, A. M. (1998). Monkey see, monkey do: The influence of work groups on the antisocial behavior of employees. The Academy of Management Journal, 41(6), 658–672. https://doi.org/10.2307/256963</ce:source-text>
+</reference>
+<reference seq="454">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A protection motivation theory of fear appeals and attitude change</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.W.</ce:initials>
+<ce:surname>Rogers</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Psychology</ref-sourcetitle>
+<ref-publicationyear first="1975"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>91</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>93</first-page>
+<last-page>114</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rogers, R. W. (1975). A protection motivation theory of fear appeals and attitude change. Journal of Psychology, 91, 93–114.</ref-fulltext>
+<ce:source-text>Rogers, R. W. (1975). A protection motivation theory of fear appeals and attitude change. Journal of Psychology, 91, 93–114.</ce:source-text>
+</reference>
+<reference seq="455">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Personal and political: How the Illinois domestic workers’ bill of rights connected lives</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.F.</ce:initials>
+<ce:surname>Rosado Marzán</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>UC Davis Law Review</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>57</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rosado Marzán, C. F. (2024). Personal and political: How the Illinois domestic workers’ bill of rights connected lives. UC Davis Law Review, 57. http://dx.doi.org/10.2139/ssrn.4742110</ref-fulltext>
+<ce:source-text>Rosado Marzán, C. F. (2024). Personal and political: How the Illinois domestic workers’ bill of rights connected lives. UC Davis Law Review, 57. http://dx.doi.org/10.2139/ssrn.4742110</ce:source-text>
+</reference>
+<reference seq="456">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Repression and incorporation: Fear stuff, sweet stuff and evil stuff: Manage- ment’s defenses against unionization in the south</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Roy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Capital and Labour: Studies in the Capitalist Labour Process</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>395</first-page>
+<last-page>415</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In T. Nichols (Ed.), London: Athlone Press</ref-text>
+</ref-info>
+<ref-fulltext>Roy, D. (1980). Repression and incorporation: Fear stuff, sweet stuff and evil stuff: Manage- ment’s defenses against unionization in the south. In T. Nichols (Ed.), Capital and labour: Studies in the capitalist labour process (pp. 395–415). London: Athlone Press.</ref-fulltext>
+<ce:source-text>Roy, D. (1980). Repression and incorporation: Fear stuff, sweet stuff and evil stuff: Manage- ment’s defenses against unionization in the south. In T. Nichols (Ed.), Capital and labour: Studies in the capitalist labour process (pp. 395–415). London: Athlone Press.</ce:source-text>
+</reference>
+<reference seq="457">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Multinational corporations, employers’ associations and trade union ex- clusion strategies in the German fast-food industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Royle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Employee Relations</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>437</first-page>
+<last-page>460</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/01425450210435563</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Royle, T. (2002). Multinational corporations, employers’ associations and trade union ex- clusion strategies in the German fast-food industry. Employee Relations, 24(4), 437–460. https://doi.org/10.1108/01425450210435563</ref-fulltext>
+<ce:source-text>Royle, T. (2002). Multinational corporations, employers’ associations and trade union ex- clusion strategies in the German fast-food industry. Employee Relations, 24(4), 437–460. https://doi.org/10.1108/01425450210435563</ce:source-text>
+</reference>
+<reference seq="458">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A new form of union organizing in Japan? Community un- ions and the case of the McDonald’s “McUnion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Royle</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Urano</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Work, Employment and Society</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>606</first-page>
+<last-page>622</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/0950017012445093</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Royle, T., &amp; Urano, E. (2012). A new form of union organizing in Japan? Community un- ions and the case of the McDonald’s “McUnion. Work, Employment and Society, 26(4), 606–622. https://doi.org/10.1177/0950017012445093</ref-fulltext>
+<ce:source-text>Royle, T., &amp; Urano, E. (2012). A new form of union organizing in Japan? Community un- ions and the case of the McDonald’s “McUnion. Work, Employment and Society, 26(4), 606–622. https://doi.org/10.1177/0950017012445093</ce:source-text>
+</reference>
+<reference seq="459">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The route to well-being at work- place: Examining the role of job insecurity and its antecedents</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Saeed</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>I.</ce:initials>
+<ce:surname>Hassan</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Dastgeer</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:surname>Iqbal</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Management and Business Economics</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>47</first-page>
+<last-page>72</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Saeed, S., Hassan, I., Dastgeer, G., &amp; Iqbal, T. (2023). The route to well-being at work- place: Examining the role of job insecurity and its antecedents. European Journal of Management and Business Economics, 32(1), 47–72. https://doi.org/10.1108/EJMBE-02-2020-0025</ref-fulltext>
+<ce:source-text>Saeed, S., Hassan, I., Dastgeer, G., &amp; Iqbal, T. (2023). The route to well-being at work- place: Examining the role of job insecurity and its antecedents. European Journal of Management and Business Economics, 32(1), 47–72. https://doi.org/10.1108/EJMBE-02-2020-0025</ce:source-text>
+</reference>
+<reference seq="460">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Starbucks illegally fired over 70 union leaders, according to a report</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Sainato</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Guardian</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>August 25</ref-text>
+</ref-info>
+<ref-fulltext>Sainato, M. (2022, August 25). Starbucks illegally fired over 70 union leaders, according to a report. The Guardian. https://www.theguardian.com/us-news/2022/aug/25/starbucks-union-employees-fired</ref-fulltext>
+<ce:source-text>Sainato, M. (2022, August 25). Starbucks illegally fired over 70 union leaders, according to a report. The Guardian. https://www.theguardian.com/us-news/2022/aug/25/starbucks-union-employees-fired</ce:source-text>
+</reference>
+<reference seq="461">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Saunders</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Stigma of Occupations</ref-sourcetitle>
+<ref-publicationyear first="1981"/>
+<ref-text>Westmead, UK: Gower</ref-text>
+</ref-info>
+<ref-fulltext>Saunders, C. (1981). Social stigma of occupations. Westmead, UK: Gower.</ref-fulltext>
+<ce:source-text>Saunders, C. (1981). Social stigma of occupations. Westmead, UK: Gower.</ce:source-text>
+</reference>
+<reference seq="462">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Pay level satisfaction and employee outcomes: The moderating effect of autonomy and support climates</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Schreurs</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Guenter</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>I.J.H.</ce:initials>
+<ce:surname>van Emmerik</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Human Resource Management</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>12</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1523</first-page>
+<last-page>1546</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Schreurs, B., Guenter, H., &amp; van Emmerik, I. J. H., et al. (2015). Pay level satisfaction and employee outcomes: The moderating effect of autonomy and support climates. International Journal of Human Resource Management, 26(12), 1523–1546. https://doi.org/10.1080/09585192.2014.940992</ref-fulltext>
+<ce:source-text>Schreurs, B., Guenter, H., &amp; van Emmerik, I. J. H., et al. (2015). Pay level satisfaction and employee outcomes: The moderating effect of autonomy and support climates. International Journal of Human Resource Management, 26(12), 1523–1546. https://doi.org/10.1080/09585192.2014.940992</ce:source-text>
+</reference>
+<reference seq="463">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Workers Want Unions, but the Latest Data Point to Obstacles in Their Path: Private-Sector Unionization Rose by More than a Quarter Million in 2023, while Unionization in State and Local Governments Fell. Economic Policy Institute.</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Shierholz</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>McNicholas</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Poydock</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Sherer</ce:surname>
+</author>
+</ref-authors>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://www.epi.org/publication/union-membership-data/</ce:e-address>
+</ref-website>
+<ref-text>January 23</ref-text>
+</ref-info>
+<ref-fulltext>Shierholz, H., McNicholas, C., Poydock, M., &amp; Sherer, J. (2024, January 23). Workers want unions, but the latest data point to obstacles in their path: Private-sector unionization rose by more than a quarter million in 2023, while unionization in state and local governments fell. Economic Policy Institute. https://www.epi.org/publication/union-membership-data/</ref-fulltext>
+<ce:source-text>Shierholz, H., McNicholas, C., Poydock, M., &amp; Sherer, J. (2024, January 23). Workers want unions, but the latest data point to obstacles in their path: Private-sector unionization rose by more than a quarter million in 2023, while unionization in state and local governments fell. Economic Policy Institute. https://www.epi.org/publication/union-membership-data/</ce:source-text>
+</reference>
+<reference seq="464">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Growing at work: Employees’ interpretations of progressive self-change in organizations</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Sonenshein</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.E.</ce:initials>
+<ce:surname>Dutton</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.M.</ce:initials>
+<ce:surname>Grant</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>G.M.</ce:initials>
+<ce:surname>Spreitzer</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>K.M.</ce:initials>
+<ce:surname>Sutcliffe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organization Science</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>552</first-page>
+<last-page>570</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sonenshein, S., Dutton, J. E., Grant, A. M., Spreitzer, G. M., &amp; Sutcliffe, K. M. (2012). Growing at work: Employees’ interpretations of progressive self-change in organizations. Organization Science, 24(2), 552–570. https://doi.org/10.1287/ORSC.1120.0749</ref-fulltext> 
+<ce:source-text>Sonenshein, S., Dutton, J. E., Grant, A. M., Spreitzer, G. M., &amp; Sutcliffe, K. M. (2012). Growing at work: Employees’ interpretations of progressive self-change in organizations. Organization Science, 24(2), 552–570. https://doi.org/10.1287/ORSC.1120.0749</ce:source-text>
+</reference>
+<reference seq="465">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The stressor-emotion model of counterproductive work behavior</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Counterproductive work behavior: Investigators of actors and targets </ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>151</first-page>
+<last-page>174</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Spector, P. E., &amp; Fox, S. (2005). The stressor-emotion model of counterproductive work behavior. In P. E. Spector, &amp; S. Fox (Eds.), Counterproductive work behavior: Investigators of actors and targets (pp. 151–174). Washington: American Psychological Association</ref-fulltext>
+<ce:source-text>Spector, P. E., &amp; Fox, S. (2005). The stressor-emotion model of counterproductive work behavior. In P. E. Spector, &amp; S. Fox (Eds.), Counterproductive work behavior: Investigators of actors and targets (pp. 151–174). Washington: American Psychological Association</ce:source-text>
+</reference>
+<reference seq="466">
+<ref-info>
+<ref-sourcetitle>Starbucks Global Environmental &amp; Social Impact Report 2021</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">https://stories.starbucks.com/stories/2022/starbucks-global-environmental-and-social-impact-report-2021/</ce:e-address>
+</ref-website>
+<ref-text>Starbucks</ref-text>
+</ref-info>
+<ref-fulltext>Starbucks Global Environmental &amp; Social Impact Report 2021. (2022). Starbucks. https://stories.starbucks.com/stories/2022/starbucks-global-environmental-and-social-impact-report-2021/</ref-fulltext>
+<ce:source-text>Starbucks Global Environmental &amp; Social Impact Report 2021. (2022). Starbucks. https://stories.starbucks.com/stories/2022/starbucks-global-environmental-and-social-impact-report-2021/</ce:source-text>
+</reference>
+<reference seq="467">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Consequences of abusive supervision</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.J.</ce:initials>
+<ce:surname>Tepper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Academy of Management Jour- Nal</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>43</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>178</first-page>
+<last-page>190</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tepper, B. J. (2000). Consequences of abusive supervision. Academy of Management Jour- nal, 43(2), 178–190.</ref-fulltext>
+<ce:source-text>Tepper, B. J. (2000). Consequences of abusive supervision. Academy of Management Jour- nal, 43(2), 178–190.</ce:source-text>
+</reference>
+<reference seq="468">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Trust me: A scale for measuring manager-employee trust</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.S.</ce:initials>
+<ce:surname>Tzafrir</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Dolan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Management Research: Journal of the Iberoamerican Academy of Management</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>115</first-page>
+<last-page>132</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/15365430480000505</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Tzafrir, S. S., &amp; Dolan, S. L. (2004). Trust me: A scale for measuring manager-employee trust. Management Research: Journal of the Iberoamerican Academy of Management, 2(2), 115–132. https://doi.org/10.1108/15365430480000505</ref-fulltext>
+<ce:source-text>Tzafrir, S. S., &amp; Dolan, S. L. (2004). Trust me: A scale for measuring manager-employee trust. Management Research: Journal of the Iberoamerican Academy of Management, 2(2), 115–132. https://doi.org/10.1108/15365430480000505</ce:source-text>
+</reference>
+<reference seq="469">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Valinsky</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Starbucks argues its unionized stores should pay workers less</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-text>September 29 CNN</ref-text>
+</ref-info>
+<ref-fulltext>Valinsky, J. (2023, September 29). Starbucks argues its unionized stores should pay workers less. CNN.</ref-fulltext>
+<ce:source-text>Valinsky, J. (2023, September 29). Starbucks argues its unionized stores should pay workers less. CNN.</ce:source-text>
+</reference>
+<reference seq="470">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The mediating role of frustration of psychological needs in the relationship between job insecurity and work-related well-being</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Vander Elst</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>van den Broeck</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>H.</ce:initials>
+<ce:surname>de Witte</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>N.</ce:initials>
+<ce:surname>de Cuyper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Work &amp; Stress</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>252</first-page>
+<last-page>271</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/02678373.2012.703900</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Vander Elst, T., Van den Broeck, A., De Witte, H., &amp; De Cuyper, N. (2012). The mediating role of frustration of psychological needs in the relationship between job insecurity and work-related well-being. Work &amp; Stress, 26(3), 252–271. https://doi.org/10.1080/02678373.2012.703900</ref-fulltext>
+<ce:source-text>Vander Elst, T., Van den Broeck, A., De Witte, H., &amp; De Cuyper, N. (2012). The mediating role of frustration of psychological needs in the relationship between job insecurity and work-related well-being. Work &amp; Stress, 26(3), 252–271. https://doi.org/10.1080/02678373.2012.703900</ce:source-text>
+</reference>
+<reference seq="471">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.D.</ce:initials>
+<ce:surname>Williams</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Ostracism: The Power of Silence.</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-text>New York: Guilford Press</ref-text>
+</ref-info>
+<ref-fulltext>Williams, K. D. (2001). Ostracism: The power of silence. New York: Guilford Press.</ref-fulltext>
+<ce:source-text>Williams, K. D. (2001). Ostracism: The power of silence. New York: Guilford Press.</ce:source-text>
+</reference>
+<reference seq="472">
+<ref-info>
+<ref-title>
+<ref-titletext-english> Perspectives on hospitality industry trade unionism in the UK and beyond.</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:surname>Wood</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Research in Hospitality Management,</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>137</first-page>
+<last-page>147</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wood, R. C. (2020). Perspectives on hospitality industry trade unionism in the UK and beyond. Research in Hospitality Management, 10(2), 137–147</ref-fulltext>
+<ce:source-text>Wood, R. C. (2020). Perspectives on hospitality industry trade unionism in the UK and beyond. Research in Hospitality Management, 10(2), 137–147</ce:source-text>
+</reference>
+<reference seq="473">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Too afraid to travel? Development of a pan- demic (COVID-19) anxiety travel scale (PATS)</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Zenker</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Braun</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:surname>Gyimóthy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>84</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>104286</ref-text>
+</ref-info>
+<ref-fulltext>Zenker, S., Braun, E., &amp; Gyimóthy, S. (2021). Too afraid to travel? Development of a pan- demic (COVID-19) anxiety travel scale (PATS). Tourism Management, 84, 104286.</ref-fulltext>
+<ce:source-text>Zenker, S., Braun, E., &amp; Gyimóthy, S. (2021). Too afraid to travel? Development of a pan- demic (COVID-19) anxiety travel scale (PATS). Tourism Management, 84, 104286.</ce:source-text>
+</reference>
+<reference seq="474">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Development and validation of the employer anti-unionism scale based on data from US workers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Adamska-Mieruszewska</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bąk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>British Journal of Industrial Relations</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/bjir.12810</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024a). Development and validation of the employer anti-unionism scale based on data from US workers. British Journal of Industrial Relations. https://doi.org/10.1111/bjir.12810</ref-fulltext>
+<ce:source-text>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024a). Development and validation of the employer anti-unionism scale based on data from US workers. British Journal of Industrial Relations. https://doi.org/10.1111/bjir.12810</ce:source-text>
+</reference>
+<reference seq="475">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Factors affecting hospitality Workers’ intention to leave the industry during the coronavirus pandemic. Evidence from the UK</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Adamska-Mieruszewska</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bąk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Quality Assurance in Hospitality &amp; Tourism</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>874</first-page>
+<last-page>907</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/1528008X.2022.2141945</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024b). Factors affecting hospitality Workers’ intention to leave the industry during the coronavirus pandemic. Evidence from the UK. Journal of Quality Assurance in Hospitality &amp; Tourism, 25(4), 874–907. https://doi.org/10.1080/1528008X.2022.2141945</ref-fulltext>
+<ce:source-text>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024b). Factors affecting hospitality Workers’ intention to leave the industry during the coronavirus pandemic. Evidence from the UK. Journal of Quality Assurance in Hospitality &amp; Tourism, 25(4), 874–907. https://doi.org/10.1080/1528008X.2022.2141945</ce:source-text>
+</reference>
+<reference seq="476">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Understanding employee reac- tions to union-busting in the US hospitality industry: An analysis based on union attitudes and cognitive frames</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Adamska-Mieruszewska</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bąk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>119</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2024.103709</ce:e-address>
+</ref-website>
+<ref-text>103709</ref-text>
+</ref-info>
+<ref-fulltext>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024c). Understanding employee reac- tions to union-busting in the US hospitality industry: An analysis based on union attitudes and cognitive frames, International Journal of Hospitality Management, 119, 103709. https://doi.org/10.1016/j.ijhm.2024.103709</ref-fulltext>
+<ce:source-text>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024c). Understanding employee reac- tions to union-busting in the US hospitality industry: An analysis based on union attitudes and cognitive frames, International Journal of Hospitality Management, 119, 103709. https://doi.org/10.1016/j.ijhm.2024.103709</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

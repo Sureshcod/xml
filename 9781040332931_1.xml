@@ -1,0 +1,3604 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID"></itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title/>
+<source type="book" country="">
+<sourcetitle></sourcetitle>
+<sourcetitle-abbrev></sourcetitle-abbrev>
+<isbn type="print" length="10"></isbn>
+<isbn type="print" length="13"></isbn>
+<isbn type="electronic" length="10"></isbn>
+<isbn type="electronic" length="13"></isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page></first-page>
+<last-page></last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first=""/>
+<publicationdate>
+<year></year>
+<month>01</month>
+<day>01</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url"></ce:e-address>
+</website>
+<publisher>
+<publishername></publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code></classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="126">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Job quality and work engagement in the cruise industr</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>�ariza-Monte</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Radi</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Arjona-Fuente</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>H.</ce:initials>
+<ce:surname>Ha</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.</ce:initials>
+<ce:surname>La</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Asia Pacific Journal of Tourism Research</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>469</first-page>
+<last-page>487</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/10941665.2020.1866625</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>�Ariza-Montes, A., Radic, A., Arjona-Fuentes, J. M., Han, H., &amp; Law, R. (2021). Job quality and work engagement in the cruise industry. Asia Pacific Journal of Tourism Research, 26(5), 469–487.https://doi.org/10.1080/10941665.2020.1866625</ref-fulltext>
+<ce:source-text>�Ariza-Montes, A., Radic, A., Arjona-Fuentes, J. M., Han, H., &amp; Law, R. (2021). Job quality and work engagement in the cruise industry. Asia Pacific Journal of Tourism Research, 26(5), 469–487.https://doi.org/10.1080/10941665.2020.1866625</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Labour, necessity-induced (im)mobilities, and the hotel industry: A developing country perspective</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Basnyat</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Carr</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:surname>Lovelock</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+<iss-first>12</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2748</first-page>
+<last-page>2764</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/09669582.2021.1924756</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Basnyat, S., Carr, N., &amp; Lovelock, B. (2022). Labour, necessity-induced (im)mobilities, and the hotel industry: A developing country perspective. Journal of Sustainable Tourism, 30(12), 2748–2764. https://doi.org/10.1080/09669582.2021.1924756</ref-fulltext>
+<ce:source-text>Basnyat, S., Carr, N., &amp; Lovelock, B. (2022). Labour, necessity-induced (im)mobilities, and the hotel industry: A developing country perspective. Journal of Sustainable Tourism, 30(12), 2748–2764. https://doi.org/10.1080/09669582.2021.1924756</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Sustainable human resource management as a driver in tourism policy and planning: A serious sin of omission?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Baum</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>873</first-page>
+<last-page>889</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/09669582.2017.1423318</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Baum, T. (2018). Sustainable human resource management as a driver in tourism policy and planning: A serious sin of omission? Journal of Sustainable Tourism, 26(6), 873–889. https://doi.org/10.1080/09669582.2017.1423318</ref-fulltext>
+<ce:source-text>Baum, T. (2018). Sustainable human resource management as a driver in tourism policy and planning: A serious sin of omission? Journal of Sustainable Tourism, 26(6), 873–889. https://doi.org/10.1080/09669582.2017.1423318</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Tourism workforce re- search: A review, taxonomy and agenda</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Baum</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Kralj</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.N.S.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>D.J.</ce:initials>
+<ce:surname>Solnet</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Annals of Tourism Research</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>60</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>22</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">. https:// doi.org/10.1016/J.ANNALS.2016.04.003</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Baum, T., Kralj, A., Robinson, R. N. S., &amp; Solnet, D. J. (2016). Tourism workforce re- search: A review, taxonomy and agenda. Annals of Tourism Research, 60, 1–22. https:// doi.org/10.1016/J.ANNALS.2016.04.003</ref-fulltext>
+<ce:source-text>Baum, T., Kralj, A., Robinson, R. N. S., &amp; Solnet, D. J. (2016). Tourism workforce re- search: A review, taxonomy and agenda. Annals of Tourism Research, 60, 1–22. https:// doi.org/10.1016/J.ANNALS.2016.04.003</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Covid-19’s impact on the hospitality workforce – New crisis or amplification of the norm?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Baum</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.K.K.</ce:initials>
+<ce:surname>Mooney</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>R.N.S.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>D.</ce:initials>
+<ce:surname>Solnet</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>9</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2813</first-page>
+<last-page>2829</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Baum, T., Mooney, S. K. K., Robinson, R. N. S., &amp; Solnet, D. (2020). Covid-19’s impact on the hospitality workforce – New crisis or amplification of the norm? International Journal of Contemporary Hospitality Management, 32(9), 2813–2829. https://doi.org/10.1108/ IJCHM-04-2020-0314</ref-fulltext>
+<ce:source-text>Baum, T., Mooney, S. K. K., Robinson, R. N. S., &amp; Solnet, D. (2020). Covid-19’s impact on the hospitality workforce – New crisis or amplification of the norm? International Journal of Contemporary Hospitality Management, 32(9), 2813–2829. https://doi.org/10.1108/ IJCHM-04-2020-0314</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Baum</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Rubio</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>E.</ce:initials>
+<ce:surname>Congreve</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rewage Evidence Paper: Work, Wages and Employment in the UK’s Hospitality Sector</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-text>Coventry: Economic and Social Research Council</ref-text>
+</ref-info>
+<ref-fulltext>Baum, T., Rubio, J. C., &amp; Congreve, E. (2023). ReWAGE Evidence Paper: Work, wages and employment in the UK’s hospitality sector. Coventry: Economic and Social Research Council.</ref-fulltext>
+<ce:source-text>Baum, T., Rubio, J. C., &amp; Congreve, E. (2023). ReWAGE Evidence Paper: Work, wages and employment in the UK’s hospitality sector. Coventry: Economic and Social Research Council.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Institutional models of corporate social responsibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.-T.</ce:initials>
+<ce:surname>Blindheim</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Business &amp;</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+</ref-info>
+<ref-fulltext>Blindheim, B.-T. (2015). Institutional models of corporate social responsibility. Business &amp;</ref-fulltext>
+<ce:source-text>Blindheim, B.-T. (2015). Institutional models of corporate social responsibility. Business &amp;</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info/>
+<ref-fulltext>Society, 54(1), 52–88. https://doi.org/10.1177/0007650312443961</ref-fulltext>
+<ce:source-text>Society, 54(1), 52–88. https://doi.org/10.1177/0007650312443961</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Corporate social responsibility in hospitality: Issues and implications. A case study of scandic</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Bohdanowicz</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Scandinavian Journal of Hospitality and Tour- Ism</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>8</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>271</first-page>
+<last-page>293</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/15022250802504814</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Bohdanowicz, P., &amp; Zientara, P. (2008). Corporate social responsibility in hospitality: Issues and implications. A case study of scandic. Scandinavian Journal of Hospitality and Tour- ism, 8(4), 271–293. https://doi.org/10.1080/15022250802504814</ref-fulltext>
+<ce:source-text>Bohdanowicz, P., &amp; Zientara, P. (2008). Corporate social responsibility in hospitality: Issues and implications. A case study of scandic. Scandinavian Journal of Hospitality and Tour- ism, 8(4), 271–293. https://doi.org/10.1080/15022250802504814</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The impact of the Covid-19 pandemic on customer experience design: The hotel managers’ perspective</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Bonfanti</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>Vigolo</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Yfantidou</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>94</vol-first>
+<iss-first>102871</iss-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bonfanti, A., Vigolo, V., &amp; Yfantidou, G. (2021). The impact of the Covid-19 pandemic on customer experience design: The hotel managers’ perspective. International Journal of Hospitality Management, 94, 102871.</ref-fulltext>
+<ce:source-text>Bonfanti, A., Vigolo, V., &amp; Yfantidou, G. (2021). The impact of the Covid-19 pandemic on customer experience design: The hotel managers’ perspective. International Journal of Hospitality Management, 94, 102871.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.W.</ce:initials>
+<ce:surname>Brehm</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Theory of Psychological Reactance</ref-sourcetitle>
+<ref-publicationyear first="1966"/>
+<ref-text>New York: Academic Press</ref-text>
+</ref-info>
+<ref-fulltext>Brehm, J. W. (1966). A theory of psychological reactance. New York: Academic Press.</ref-fulltext>
+<ce:source-text>Brehm, J. W. (1966). A theory of psychological reactance. New York: Academic Press.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Under the radar? Modern slavery and labour exploitation risks for the hotel industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Bullock</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Di Domenico</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.</ce:initials>
+<ce:surname>Miller</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Shirgholami</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Wong</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism Man- Agement</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>102</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.tourman.2023.104857</ce:e-address>
+</ref-website>
+<ref-text>104857</ref-text>
+</ref-info>
+<ref-fulltext>Bullock, K., Di Domenico, M., Miller, G., Shirgholami, Z., &amp; Wong, Y. (2024). Under the radar? Modern slavery and labour exploitation risks for the hotel industry. Tourism Man- agement, 102, 104857. https://doi.org/10.1016/j.tourman.2023.104857</ref-fulltext>
+<ce:source-text>Bullock, K., Di Domenico, M., Miller, G., Shirgholami, Z., &amp; Wong, Y. (2024). Under the radar? Modern slavery and labour exploitation risks for the hotel industry. Tourism Man- agement, 102, 104857. https://doi.org/10.1016/j.tourman.2023.104857</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Sustainability implementation in restaurants: A compre- hensive model of drivers, barriers, and competitiveness-mediated effects on firm perfor-mance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Cantele</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>F.</ce:initials>
+<ce:surname>Cassia</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>87</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>102510</ref-text>
+</ref-info>
+<ref-fulltext>Cantele, S., &amp; Cassia, F. (2020). Sustainability implementation in restaurants: A compre- hensive model of drivers, barriers, and competitiveness-mediated effects on firm perfor-mance. International Journal of Hospitality Management, 87, 102510. https://doi.org/ 10.1016/j.ijhm.2020.102510</ref-fulltext>
+<ce:source-text>Cantele, S., &amp; Cassia, F. (2020). Sustainability implementation in restaurants: A compre- hensive model of drivers, barriers, and competitiveness-mediated effects on firm perfor-mance. International Journal of Hospitality Management, 87, 102510. https://doi.org/ 10.1016/j.ijhm.2020.102510</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fans and fams. Experience and belonging aboard a cruise ship mu- sic festival</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cashman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Locating Imagination in Popular Culture. Place, Tourism and Belonging</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>230</first-page>
+<last-page>243</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In N. van Es, S. Reijnders, L. Bolderman, &amp; A. Waysdorf (Eds.), London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Cashman, D. (2021). Fans and fams. Experience and belonging aboard a cruise ship mu- sic festival. In N. van Es, S. Reijnders, L. Bolderman, &amp; A. Waysdorf (Eds.), Locating imagination in popular culture. Place, tourism and belonging (pp. 230–243). London: Routledge.</ref-fulltext>
+<ce:source-text>Cashman, D. (2021). Fans and fams. Experience and belonging aboard a cruise ship mu- sic festival. In N. van Es, S. Reijnders, L. Bolderman, &amp; A. Waysdorf (Eds.), Locating imagination in popular culture. Place, tourism and belonging (pp. 230–243). London: Routledge.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Well-being and career change intention: COVID-19’s impact on unemployed and furloughed hospitality workers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.C.M.H.</ce:initials>
+<ce:surname>Chen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+<iss-first>8</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2500</first-page>
+<last-page>2520</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Chen, C. C., Bamboo, &amp; Chen, M. H. (2021). Well-being and career change intention: COVID-19’s impact on unemployed and furloughed hospitality workers. International Journal of Contemporary Hospitality Management, 33(8), 2500–2520. https://doi.org/ 10.1108/IJCHM-07-2020-0759/FULL/PDF</ref-fulltext>
+<ce:source-text>Chen, C. C., Bamboo, &amp; Chen, M. H. (2021). Well-being and career change intention: COVID-19’s impact on unemployed and furloughed hospitality workers. International Journal of Contemporary Hospitality Management, 33(8), 2500–2520. https://doi.org/ 10.1108/IJCHM-07-2020-0759/FULL/PDF</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Croes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Semrad</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Rivera</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The State of the Hospitality Industry Employ- Ment Report: Labor Force Legacy.</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<ref-text>Orlando: Rosen College of Hospitality Management</ref-text>
+</ref-info>
+<ref-fulltext>Croes, R., Semrad, K., &amp; Rivera, M. (2021). The state of the hospitality industry employ- ment report: Labor force legacy. Orlando: Rosen College of Hospitality Management.</ref-fulltext>
+<ce:source-text>Croes, R., Semrad, K., &amp; Rivera, M. (2021). The state of the hospitality industry employ- ment report: Labor force legacy. Orlando: Rosen College of Hospitality Management.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Croes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>Shapoval</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Rivera</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bąk</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Promoting Resi-</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Croes, R., Shapoval, V., Rivera, M., Bąk, M., &amp; Zientara, P. (2024). Promoting resi-</ref-fulltext>
+<ce:source-text>Croes, R., Shapoval, V., Rivera, M., Bąk, M., &amp; Zientara, P. (2024). Promoting resi-</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>dents’ happiness through a human-centric approach to tourism city development</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>International Journal of Tourism Cities</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>905</first-page>
+<last-page>924</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJTC- 05-2023-0105</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>dents’ happiness through a human-centric approach to tourism city development. International Journal of Tourism Cities, 10(3), 905–924. https://doi.org/10.1108/IJTC- 05-2023-0105</ref-fulltext>
+<ce:source-text>dents’ happiness through a human-centric approach to tourism city development. International Journal of Tourism Cities, 10(3), 905–924. https://doi.org/10.1108/IJTC- 05-2023-0105</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Job insecurity, subjective well-being and job perfor- mance: The moderating role of psychological capital</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Darvishmotevali</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>F.</ce:initials>
+<ce:surname>Ali</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>87</vol-first>
+<iss-first>102462</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2020.102462</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Darvishmotevali, M., &amp; Ali, F. (2020). Job insecurity, subjective well-being and job perfor- mance: The moderating role of psychological capital. International Journal of Hospitality Management, 87, 102462. https://doi.org/10.1016/j.ijhm.2020.102462</ref-fulltext>
+<ce:source-text>Darvishmotevali, M., &amp; Ali, F. (2020). Job insecurity, subjective well-being and job perfor- mance: The moderating role of psychological capital. International Journal of Hospitality Management, 87, 102462. https://doi.org/10.1016/j.ijhm.2020.102462</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Revisiting talent management, work-life balance and reten- tion strategies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Deery</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Jago</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>453</first-page>
+<last-page>472</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-12-2013-0538</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Deery, M., &amp; Jago, L. (2015). Revisiting talent management, work-life balance and reten- tion strategies. International Journal of Contemporary Hospitality Management, 27(3), 453–472. https://doi.org/10.1108/IJCHM-12-2013-0538</ref-fulltext>
+<ce:source-text>Deery, M., &amp; Jago, L. (2015). Revisiting talent management, work-life balance and reten- tion strategies. International Journal of Contemporary Hospitality Management, 27(3), 453–472. https://doi.org/10.1108/IJCHM-12-2013-0538</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Social partners or full-fledged stakeholders? Trade unions and CSR in Europe (France, Germany and the UK)</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Delbard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Society and Business Review</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>260</first-page>
+<last-page>277</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/17465681111171000</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Delbard, O. (2011). Social partners or full-fledged stakeholders? Trade unions and CSR in Europe (France, Germany and the UK). Society and Business Review, 6(3), 260–277. https://doi.org/10.1108/17465681111171000</ref-fulltext>
+<ce:source-text>Delbard, O. (2011). Social partners or full-fledged stakeholders? Trade unions and CSR in Europe (France, Germany and the UK). Society and Business Review, 6(3), 260–277. https://doi.org/10.1108/17465681111171000</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Comparing working conditions and job satisfaction in hospitality workers across Europe</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Díaz-Carrión</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>Navajas-Romero</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Casas-Rosal</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>90</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2020.102631</ce:e-address>
+</ref-website>
+<ref-text>102631</ref-text>
+</ref-info>
+<ref-fulltext>Díaz-Carrión, R., Navajas-Romero, V., &amp; Casas-Rosal, J. C. (2020). Comparing working conditions and job satisfaction in hospitality workers across Europe. International Journal of Hospitality Management, 90(5), 102631. https://doi.org/10.1016/j.ijhm.2020.102631</ref-fulltext>
+<ce:source-text>Díaz-Carrión, R., Navajas-Romero, V., &amp; Casas-Rosal, J. C. (2020). Comparing working conditions and job satisfaction in hospitality workers across Europe. International Journal of Hospitality Management, 90(5), 102631. https://doi.org/10.1016/j.ijhm.2020.102631</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Artificial intelligence: A systematic review of methods and applications in hospitality and tourism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Doborjeh</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Hemmington</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Doborjeh</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>N.</ce:initials>
+<ce:surname>Kasabov</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>. Interna- Tional Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1154</first-page>
+<last-page>1176</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Doborjeh, Z., Hemmington, N., Doborjeh, M., &amp; Kasabov, N. (2022). Artificial intelligence: A systematic review of methods and applications in hospitality and tourism. Interna- tional Journal of Contemporary Hospitality Management, 34(3), 1154–1176. https://doi. org/10.1108/IJCHM-06-2021-0767</ref-fulltext>
+<ce:source-text>Doborjeh, Z., Hemmington, N., Doborjeh, M., &amp; Kasabov, N. (2022). Artificial intelligence: A systematic review of methods and applications in hospitality and tourism. Interna- tional Journal of Contemporary Hospitality Management, 34(3), 1154–1176. https://doi. org/10.1108/IJCHM-06-2021-0767</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Dolnicar</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Environmentally Sustainable Tourists?</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+</ref-info>
+<ref-fulltext>Dolnicar, S. (2015). Environmentally sustainable tourists? In C. M. Hall, S. Gossling, &amp;</ref-fulltext>
+<ce:source-text>Dolnicar, S. (2015). Environmentally sustainable tourists? In C. M. Hall, S. Gossling, &amp;</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-sourcetitle>The Routledge Handbook of Tourism and Sustainability</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>140</first-page>
+<last-page>150</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>New York: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>�D. Scott (Eds.), The Routledge handbook of tourism and sustainability (pp. 140–150). New York: Routledge.</ref-fulltext>
+<ce:source-text>�D. Scott (Eds.), The Routledge handbook of tourism and sustainability (pp. 140–150). New York: Routledge.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The historical structur- ing of the U.S. Tourism workforce: A critical review</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.D.</ce:initials>
+<ce:surname>Dudley</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.N.</ce:initials>
+<ce:surname>Duffy</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>W.C.</ce:initials>
+<ce:surname>Terry</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>W.C.</ce:initials>
+<ce:surname>Norman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+<iss-first>12</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2823</first-page>
+<last-page>2838</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/09669582.2021.1952417</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Dudley, K. D., Duffy, L. N., Terry, W. C., &amp; Norman, W. C. (2022). The historical structur- ing of the U.S. Tourism workforce: A critical review. Journal of Sustainable Tourism, 30(12), 2823–2838. https://doi.org/10.1080/09669582.2021.1952417</ref-fulltext>
+<ce:source-text>Dudley, K. D., Duffy, L. N., Terry, W. C., &amp; Norman, W. C. (2022). The historical structur- ing of the U.S. Tourism workforce: A critical review. Journal of Sustainable Tourism, 30(12), 2823–2838. https://doi.org/10.1080/09669582.2021.1952417</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Leveraging ChatGPT and other generative artificial intelligence (AI)-based applications in the hospitality and tourism in- dustry: Practices, challenges and research agenda</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.K.</ce:initials>
+<ce:surname>Dwivedi</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Pandey</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>W.</ce:initials>
+<ce:surname>Currie</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>A.</ce:initials>
+<ce:surname>Micu</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>12</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-05-2023-0686</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Dwivedi, Y. K., Pandey, N., Currie, W., &amp; Micu, A. (2024). Leveraging ChatGPT and other generative artificial intelligence (AI)-based applications in the hospitality and tourism in- dustry: Practices, challenges and research agenda. International Journal of Contemporary &lt;a name="_bookmark2"&gt;&lt;/a&gt;Hospitality Management, 36(1), 1–12. https://doi.org/10.1108/IJCHM-05-2023-0686</ref-fulltext>
+<ce:source-text>Dwivedi, Y. K., Pandey, N., Currie, W., &amp; Micu, A. (2024). Leveraging ChatGPT and other generative artificial intelligence (AI)-based applications in the hospitality and tourism in- dustry: Practices, challenges and research agenda. International Journal of Contemporary &lt;a name="_bookmark2"&gt;&lt;/a&gt;Hospitality Management, 36(1), 1–12. https://doi.org/10.1108/IJCHM-05-2023-0686</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>EHL Insights</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Hospitality Industry Data and Key Statistics: 2024 Update</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+</ref-info>
+<ref-fulltext>EHL Insights. (2023). Hospitality Industry data and key statistics: 2024 update. https:// hospitalityinsights.ehl.edu/hospitality-industry-statistics</ref-fulltext>
+<ce:source-text>EHL Insights. (2023). Hospitality Industry data and key statistics: 2024 update. https:// hospitalityinsights.ehl.edu/hospitality-industry-statistics</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The value of online surveys</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.R.</ce:initials>
+<ce:surname>Evans</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Mathur</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Internet Research</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>195</first-page>
+<last-page>219</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/10662240510590360</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Evans, J. R., &amp; Mathur, A. (2005). The value of online surveys. Internet Research, 15(2), 195–219. https://doi.org/10.1108/10662240510590360</ref-fulltext>
+<ce:source-text>Evans, J. R., &amp; Mathur, A. (2005). The value of online surveys. Internet Research, 15(2), 195–219. https://doi.org/10.1108/10662240510590360</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>X.</ce:initials>
+<ce:surname>Font</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Lynes</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Corporate Social Responsibility for Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<ref-text>London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Font, X., &amp; Lynes, J. (2020). Corporate social responsibility for sustainable tourism. London: Routledge.</ref-fulltext>
+<ce:source-text>Font, X., &amp; Lynes, J. (2020). Corporate social responsibility for sustainable tourism. London: Routledge.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.B.</ce:initials>
+<ce:surname>Freeman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>America Works – Critical Thoughts on the Exceptional U.S. Labor Market</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<ref-text>New York: Russell Sage Foundation</ref-text>
+</ref-info>
+<ref-fulltext>Freeman, R. B. (2007). America works – Critical thoughts on the exceptional U.S. Labor market. New York: Russell Sage Foundation.</ref-fulltext>
+<ce:source-text>Freeman, R. B. (2007). America works – Critical thoughts on the exceptional U.S. Labor market. New York: Russell Sage Foundation.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-sourcetitle>From Taylor Swift to Star Trek, Niche Cruises are on the Rise</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-text>Economist, August 15th</ref-text>
+</ref-info>
+<ref-fulltext>From Taylor Swift to Star Trek, Niche Cruises Are on the Rise (2024). Economist, August 15th. https://www.economist.com/business/2024/08/15/from-taylor-swift-to-star-trek-niche- cruises-are-on-the-rise</ref-fulltext>
+<ce:source-text>From Taylor Swift to Star Trek, Niche Cruises Are on the Rise (2024). Economist, August 15th. https://www.economist.com/business/2024/08/15/from-taylor-swift-to-star-trek-niche- cruises-are-on-the-rise</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Future Market Insights</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Bleisure Tourism Market Growth &amp; Forecast Analysis 2024–2034.</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Future Market Insights. (2024). Bleisure Tourism Market Growth &amp; Forecast Analysis 2024–2034. https://www.futuremarketinsights.com/reports/bleisure-tourism-market</ref-fulltext>
+<ce:source-text>Future Market Insights. (2024). Bleisure Tourism Market Growth &amp; Forecast Analysis 2024–2034. https://www.futuremarketinsights.com/reports/bleisure-tourism-market</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Building resilience and sustainable HRM in the visitor economy: An uneasy relationship</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Gamage</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Pyke</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>T.</ce:initials>
+<ce:surname>de Lacy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality and Tourism Manage- Ment</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>58</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>497</first-page>
+<last-page>505</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.jhtm.2023.05.006</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Gamage, A., Pyke, J., &amp; de Lacy, T. (2023). Building resilience and sustainable HRM in the visitor economy: An uneasy relationship. Journal of Hospitality and Tourism Manage- ment, 58, 497–505. https://doi.org/10.1016/j.jhtm.2023.05.006</ref-fulltext>
+<ce:source-text>Gamage, A., Pyke, J., &amp; de Lacy, T. (2023). Building resilience and sustainable HRM in the visitor economy: An uneasy relationship. Journal of Hospitality and Tourism Manage- ment, 58, 497–505. https://doi.org/10.1016/j.jhtm.2023.05.006</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Decent work in hospitality: Scale development and validation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.J.</ce:initials>
+<ce:surname>García-Rodríguez</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.M.</ce:initials>
+<ce:surname>Armas-Cruz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+<iss-first>10</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1674</first-page>
+<last-page>1693</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/09669582.2020.1854674</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>García-Rodríguez, F. J., Armas-Cruz, Y., &amp; González-De-La-Rosa, M. (2021). Decent work in hospitality: Scale development and validation. Journal of Sustainable Tourism, 29(10), 1674–1693. https://doi.org/10.1080/09669582.2020.1854674</ref-fulltext>
+<ce:source-text>García-Rodríguez, F. J., Armas-Cruz, Y., &amp; González-De-La-Rosa, M. (2021). Decent work in hospitality: Scale development and validation. Journal of Sustainable Tourism, 29(10), 1674–1693. https://doi.org/10.1080/09669582.2020.1854674</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hospitality managers in tur- bulent times: The Covid-19 crisis</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Giousmpasoglou</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Marinakou</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Zopiatis</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1297</first-page>
+<last-page>1318</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-07-2020-0741</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Giousmpasoglou, C., Marinakou, E., &amp; Zopiatis, A. (2021). Hospitality managers in tur- bulent times: The Covid-19 crisis. International Journal of Contemporary Hospitality Management, 33(4), 1297–1318. https://doi.org/10.1108/IJCHM-07-2020-0741</ref-fulltext>
+<ce:source-text>Giousmpasoglou, C., Marinakou, E., &amp; Zopiatis, A. (2021). Hospitality managers in tur- bulent times: The Covid-19 crisis. International Journal of Contemporary Hospitality Management, 33(4), 1297–1318. https://doi.org/10.1108/IJCHM-07-2020-0741</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.R.</ce:initials>
+<ce:surname>Goeldner</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>B.J.</ce:initials>
+<ce:surname>Ritchie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism: Principles, Practices, Philosophies</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>Hobo- ken, New York: John Wiley &amp; Sons</ref-text>
+</ref-info>
+<ref-fulltext>Goeldner, C. R., &amp; Ritchie, B. J. (2006). Tourism: Principles, practices, philosophies. Hobo- ken, New York: John Wiley &amp; Sons.</ref-fulltext>
+<ce:source-text>Goeldner, C. R., &amp; Ritchie, B. J. (2006). Tourism: Principles, practices, philosophies. Hobo- ken, New York: John Wiley &amp; Sons.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The impact of employee-oriented CSR on quality of life: Evidence from the hospi- tality industry</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>97</vol-first>
+<vol-first>142</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>González-De-la-Rosa, M., Armas-Cruz, Y., Dorta-Afonso, D., &amp; García-Rodríguez, F. J. (2023). The impact of employee-oriented CSR on quality of life: Evidence from the hospi- tality industry. Tourism Management, 97. https://doi.org/10.1016/j.tourman.2023.104740 Greenwood, M., &amp; Van Buren, H. J. (2017). Ideology in HRM scholarship: interrogating the ideological performativity of “New Unitarism”. Journal of Business Ethics, 142(4),</ref-fulltext>
+<ce:source-text>González-De-la-Rosa, M., Armas-Cruz, Y., Dorta-Afonso, D., &amp; García-Rodríguez, F. J. (2023). The impact of employee-oriented CSR on quality of life: Evidence from the hospi- tality industry. Tourism Management, 97. https://doi.org/10.1016/j.tourman.2023.104740 Greenwood, M., &amp; Van Buren, H. J. (2017). Ideology in HRM scholarship: interrogating the ideological performativity of “New Unitarism”. Journal of Business Ethics, 142(4),</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<volisspag>
+<page-information>
+<pages>
+<first-page>663</first-page>
+<last-page>678</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>663–678. http://www.jstor.org/stable/45022130</ref-fulltext>
+<ce:source-text>663–678. http://www.jstor.org/stable/45022130</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.K.</ce:initials>
+<ce:surname>Guliani</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.A.</ce:initials>
+<ce:surname>Rizwan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Corporate Social Responsibility in the Hospi- Tality and Tourism Industry</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>. (Eds.), Hershey: IGI Global</ref-text>
+</ref-info>
+<ref-fulltext>Guliani, L. K., &amp; Rizwan, S. A. (Eds.) (2016). Corporate social responsibility in the hospi- tality and tourism industry. Hershey: IGI Global.</ref-fulltext>
+<ce:source-text>Guliani, L. K., &amp; Rizwan, S. A. (Eds.) (2016). Corporate social responsibility in the hospi- tality and tourism industry. Hershey: IGI Global.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.M.</ce:initials>
+<ce:surname>Hall</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.-T.</ce:initials>
+<ce:surname>Le-Klähn</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Ram</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism, Public Transport and Sustainable Mobility</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Bristol: Channel View Publications</ref-text>
+</ref-info>
+<ref-fulltext>Hall, C. M., Le-Klähn, D.-T., &amp; Ram, Y. (2017). Tourism, public transport and sustainable mobility. Bristol: Channel View Publications.</ref-fulltext>
+<ce:source-text>Hall, C. M., Le-Klähn, D.-T., &amp; Ram, Y. (2017). Tourism, public transport and sustainable mobility. Bristol: Channel View Publications.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Relationships among image congruence, consumption emo- tions, and customer loyalty in the lodging industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Han</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Back</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality and Tourism Research</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>467</first-page>
+<last-page>490</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/1096348008321666</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Han, H., &amp; Back, K. (2008). Relationships among image congruence, consumption emo- tions, and customer loyalty in the lodging industry. Journal of Hospitality and Tourism Research, 32(4), 467–490. https://doi.org/10.1177/1096348008321666</ref-fulltext>
+<ce:source-text>Han, H., &amp; Back, K. (2008). Relationships among image congruence, consumption emo- tions, and customer loyalty in the lodging industry. Journal of Hospitality and Tourism Research, 32(4), 467–490. https://doi.org/10.1177/1096348008321666</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-title>
+<ref-titletext-english>(2011). Cognitive, affective, conative, and action loyalty: Testing the impact of inertia</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Han</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Kimb</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>E.</ce:initials>
+<ce:surname>Kima</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>, International Journal of Hospitality Management</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1108</first-page>
+<last-page>1119</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2011.03.006</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Han, H., Kimb, Y., &amp; Kima, E. (2011). Cognitive, affective, conative, and action loyalty: Testing the impact of inertia, International Journal of Hospitality Management, 30, 1108– 1119. https://doi.org/10.1016/j.ijhm.2011.03.006</ref-fulltext>
+<ce:source-text>Han, H., Kimb, Y., &amp; Kima, E. (2011). Cognitive, affective, conative, and action loyalty: Testing the impact of inertia, International Journal of Hospitality Management, 30, 1108– 1119. https://doi.org/10.1016/j.ijhm.2011.03.006</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Hawkins</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Bohdanowicz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Responsible Hospitality: Theory and Practice</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Oxford: Goodfellow Publishers</ref-text>
+</ref-info>
+<ref-fulltext>Hawkins, R., &amp; Bohdanowicz, P. (2011). Responsible hospitality: Theory and practice. Oxford: Goodfellow Publishers.</ref-fulltext>
+<ce:source-text>Hawkins, R., &amp; Bohdanowicz, P. (2011). Responsible hospitality: Theory and practice. Oxford: Goodfellow Publishers.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-title>
+<ref-titletext-english>CSR and service brand: The mediating effect of brand identifica- tion and moderating effect of service quality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>He</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Li</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Business Ethics</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>100</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>673</first-page>
+<last-page>688</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s10551-010-0703-y</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>He, H., &amp; Li, Y. (2011). CSR and service brand: The mediating effect of brand identifica- tion and moderating effect of service quality. Journal of Business Ethics, 100, 673–688. https://doi.org/10.1007/s10551-010-0703-y</ref-fulltext>
+<ce:source-text>He, H., &amp; Li, Y. (2011). CSR and service brand: The mediating effect of brand identifica- tion and moderating effect of service quality. Journal of Business Ethics, 100, 673–688. https://doi.org/10.1007/s10551-010-0703-y</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Social identity perspective on brand loyalty</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>He</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Li</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>L.</ce:initials>
+<ce:surname>Harris</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Business Research</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>65</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>648</first-page>
+<last-page>657</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.jbusres.2011.03.007</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>He, H., Li, Y., &amp; Harris, L. (2012). Social identity perspective on brand loyalty. Journal of Business Research. 65, 648–657. https://doi.org/10.1016/j.jbusres.2011.03.007</ref-fulltext>
+<ce:source-text>He, H., Li, Y., &amp; Harris, L. (2012). Social identity perspective on brand loyalty. Journal of Business Research. 65, 648–657. https://doi.org/10.1016/j.jbusres.2011.03.007</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Environmental commitment in holiday transport mode choice</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Inter- National Journal of Culture, Tourism and Hospitality Research</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>67</first-page>
+<last-page>80</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hergesell, A. (2017). Environmental commitment in holiday transport mode choice. Inter- national Journal of Culture, Tourism and Hospitality Research, 11(1), 67–80. https://doi. org/10.1108/IJCTHR-09-2015-0118</ref-fulltext>
+<ce:source-text>Hergesell, A. (2017). Environmental commitment in holiday transport mode choice. Inter- national Journal of Culture, Tourism and Hospitality Research, 11(1), 67–80. https://doi. org/10.1108/IJCTHR-09-2015-0118</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>When artificial intelligence meets the hospitality and tourism industry: An assessment framework to inform theory and management</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.E.A.W.</ce:initials>
+<ce:surname>Chao</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality and Tourism Insights</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1080</first-page>
+<last-page>1100</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/JHTI-01-2021-0021</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Huang, A., Chao, Y., de la Mora Velasco, E., Bilgihan, A., &amp; Wei, W. (2022). When artificial intelligence meets the hospitality and tourism industry: An assessment framework to inform theory and management. Journal of Hospitality and Tourism Insights, 5(5), 1080– 1100. https://doi.org/10.1108/JHTI-01-2021-0021</ref-fulltext>
+<ce:source-text>Huang, A., Chao, Y., de la Mora Velasco, E., Bilgihan, A., &amp; Wei, W. (2022). When artificial intelligence meets the hospitality and tourism industry: An assessment framework to inform theory and management. Journal of Hospitality and Tourism Insights, 5(5), 1080– 1100. https://doi.org/10.1108/JHTI-01-2021-0021</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Hutton</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Irvine</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>N.</ce:initials>
+<ce:surname>Foley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hospitality Industry and Covid-19</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>London: House of Commons Library</ref-text>
+</ref-info>
+<ref-fulltext>Hutton, G., Irvine, S., &amp; Foley, N. (2022). Hospitality industry and Covid-19. London: House of Commons Library.</ref-fulltext>
+<ce:source-text>Hutton, G., Irvine, S., &amp; Foley, N. (2022). Hospitality industry and Covid-19. London: House of Commons Library.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>IATA</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Air Passenger Market Analysis</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-website>
+<ce:e-address type="url">/</ce:e-address>
+</ref-website>
+<ref-text>December 2023</ref-text>
+</ref-info>
+<ref-fulltext>IATA (2023). Air passenger market analysis. December 2023. https://www.iata.org/en/iata- repository/publications/economic-reports/air-passenger-market-analysis-december-2023/</ref-fulltext>
+<ce:source-text>IATA (2023). Air passenger market analysis. December 2023. https://www.iata.org/en/iata- repository/publications/economic-reports/air-passenger-market-analysis-december-2023/</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Report of the director general to the 87th meeting of the Inter- national Labour Conference. Geneva: International Labour Office</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>ILO</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Decent Work</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+</ref-info>
+<ref-fulltext>ILO (1999). Decent work. Report of the director general to the 87th meeting of the Inter- national Labour Conference. Geneva: International Labour Office. www.ilo.org/public/ english/standards/relm/ilc/ilc87/rep-i.htm</ref-fulltext>
+<ce:source-text>ILO (1999). Decent work. Report of the director general to the 87th meeting of the Inter- national Labour Conference. Geneva: International Labour Office. www.ilo.org/public/ english/standards/relm/ilc/ilc87/rep-i.htm</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Anything goes? Exploring the limits of employment law in UK hospitality and catering</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Industrial Relations Journal</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>52</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>255</first-page>
+<last-page>269</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ioannou, G., &amp; Dukes, R. (2021). Anything goes? Exploring the limits of employment law in UK hospitality and catering. Industrial Relations Journal, 52(3), 255–269. https://doi. org/10.1111/IRJ.12329</ref-fulltext>
+<ce:source-text>Ioannou, G., &amp; Dukes, R. (2021). Anything goes? Exploring the limits of employment law in UK hospitality and catering. Industrial Relations Journal, 52(3), 255–269. https://doi. org/10.1111/IRJ.12329</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Service climate: How does it affect turnover intention?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Kang</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Busser</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>H.-M.</ce:initials>
+<ce:surname>Hoi</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>76</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-04-2016-0185</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Kang, H., Busser, J., &amp; Hoi, H.-M. (2018). Service climate: How does it affect turnover intention? International Journal of Contemporary Hospitality Management, 30(1), 76–94. https://doi.org/10.1108/IJCHM-04-2016-0185</ref-fulltext>
+<ce:source-text>Kang, H., Busser, J., &amp; Hoi, H.-M. (2018). Service climate: How does it affect turnover intention? International Journal of Contemporary Hospitality Management, 30(1), 76–94. https://doi.org/10.1108/IJCHM-04-2016-0185</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Perceived organizational support, career satisfaction, and performance outcomes: A study of hotel employees in Cameroon</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.M.</ce:initials>
+<ce:surname>Karatepe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>735</first-page>
+<last-page>752</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/09596111211237273</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Karatepe, O. M. (2012). Perceived organizational support, career satisfaction, and performance outcomes: A study of hotel employees in Cameroon. International Journal of Contemporary Hospitality Management, 24(5), 735–752. https://doi.org/10.1108/09596111211237273</ref-fulltext>
+<ce:source-text>Karatepe, O. M. (2012). Perceived organizational support, career satisfaction, and performance outcomes: A study of hotel employees in Cameroon. International Journal of Contemporary Hospitality Management, 24(5), 735–752. https://doi.org/10.1108/09596111211237273</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Application of AI and robotics in hospitality sector: A resource gain and resource loss perspective</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Khaliq</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Waqas</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>Q.A.</ce:initials>
+<ce:surname>Nisar</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:surname>Haider</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Asghar</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Technology in Society</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>68</vol-first>
+<iss-first>101807</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/J.TECHSOC.2021.101807</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Khaliq, A., Waqas, A., Nisar, Q. A., Haider, S., &amp; Asghar, Z. (2022). Application of AI and robotics in hospitality sector: A resource gain and resource loss perspective. Technology in Society, 68, 101807. https://doi.org/10.1016/J.TECHSOC.2021.101807</ref-fulltext>
+<ce:source-text>Khaliq, A., Waqas, A., Nisar, Q. A., Haider, S., &amp; Asghar, Z. (2022). Application of AI and robotics in hospitality sector: A resource gain and resource loss perspective. Technology in Society, 68, 101807. https://doi.org/10.1016/J.TECHSOC.2021.101807</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The socio-economic impact of regional tourism: An occupation-based modelling perspective from Sweden</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Kronenberg</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Fuchs</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+<iss-first>12</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2785</first-page>
+<last-page>2805</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/09669582.2021.1924757</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Kronenberg, K., &amp; Fuchs, M. (2022). The socio-economic impact of regional tourism: An occupation-based modelling perspective from Sweden. Journal of Sustainable Tourism, 30(12), 2785–2805. https://doi.org/10.1080/09669582.2021.1924757</ref-fulltext>
+<ce:source-text>Kronenberg, K., &amp; Fuchs, M. (2022). The socio-economic impact of regional tourism: An occupation-based modelling perspective from Sweden. Journal of Sustainable Tourism, 30(12), 2785–2805. https://doi.org/10.1080/09669582.2021.1924757</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A review of research into tourism work and employment: Launching the annals of tourism research curated collection on tourism work and employment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ladkin</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Mooney</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:surname>Solnet</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:surname>Baum</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>H.</ce:initials>
+<ce:surname>Yan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Annals of Tourism Research</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>100</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.annals.2023.103554</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Ladkin, A., Mooney, S., Solnet, D., Baum, T., Robinson, R., &amp; Yan, H. (2023). A review of research into tourism work and employment: Launching the annals of tourism research curated collection on tourism work and employment. Annals of Tourism Research, 100. https://doi.org/10.1016/j.annals.2023.103554</ref-fulltext>
+<ce:source-text>Ladkin, A., Mooney, S., Solnet, D., Baum, T., Robinson, R., &amp; Yan, H. (2023). A review of research into tourism work and employment: Launching the annals of tourism research curated collection on tourism work and employment. Annals of Tourism Research, 100. https://doi.org/10.1016/j.annals.2023.103554</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Artificial intelligence research in hospital- ity: A state-of-the-art review and future directions</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Law</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>K.J.</ce:initials>
+<ce:surname>Lin</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>H.</ce:initials>
+<ce:surname>Ye</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>D.K.C.</ce:initials>
+<ce:surname>Fong</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2049</first-page>
+<last-page>2068</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Law, R., Lin, K. J., Ye, H., &amp; Fong, D. K. C. (2024). Artificial intelligence research in hospital- ity: A state-of-the-art review and future directions. International Journal of Contemporary Hospitality Management, 36(6), 2049–2068. https://doi.org/10.1108/IJCHM-02-2023-0189 Lee, Y. K., Back, K. J., &amp; Kim, J. Y. (2009). Family restaurant brand personality and its impact on customer’s emotion, satisfaction and brand loyalty. Journal of Hospitality &amp;</ref-fulltext>
+<ce:source-text>Law, R., Lin, K. J., Ye, H., &amp; Fong, D. K. C. (2024). Artificial intelligence research in hospital- ity: A state-of-the-art review and future directions. International Journal of Contemporary Hospitality Management, 36(6), 2049–2068. https://doi.org/10.1108/IJCHM-02-2023-0189 Lee, Y. K., Back, K. J., &amp; Kim, J. Y. (2009). Family restaurant brand personality and its impact on customer’s emotion, satisfaction and brand loyalty. Journal of Hospitality &amp;</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info/>
+<ref-fulltext>Tourism Research, 33(3), 305–328. https://doi.org/10.1177/1096348009338511</ref-fulltext>
+<ce:source-text>Tourism Research, 33(3), 305–328. https://doi.org/10.1177/1096348009338511</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Understanding hotel employees’ service sabotage: Emotional labor perspective based on conservation of resources theory</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Lee</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Ok</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospital- Ity Management</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>176</first-page>
+<last-page>187</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2013.08.014</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Lee, J., &amp; Ok, C. (2014). Understanding hotel employees’ service sabotage: Emotional labor perspective based on conservation of resources theory. International Journal of Hospital- ity Management, 36, 176–187. https://doi.org/10.1016/j.ijhm.2013.08.014</ref-fulltext>
+<ce:source-text>Lee, J., &amp; Ok, C. (2014). Understanding hotel employees’ service sabotage: Emotional labor perspective based on conservation of resources theory. International Journal of Hospital- ity Management, 36, 176–187. https://doi.org/10.1016/j.ijhm.2013.08.014</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Legrand</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Chen</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>G.C.M.</ce:initials>
+<ce:surname>Laeis</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sustainability in the Hospitality Industry. Principles of Sustainable Operations</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-text>4th ed.). London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Legrand, W., Chen, J. S., &amp; Laeis, G. C. M. (2022). Sustainability in the hospitality industry. Principles of sustainable operations (4th ed.). London: Routledge</ref-fulltext>
+<ce:source-text>Legrand, W., Chen, J. S., &amp; Laeis, G. C. M. (2022). Sustainability in the hospitality industry. Principles of sustainable operations (4th ed.). London: Routledge</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Legrand</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Sloan</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Chen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sustainability in the Hospitality Industry: Prin- Ciples of Sustainable Operations</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<ref-text>3rd ed.). London: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Legrand, W., Sloan, P., &amp; Chen, J. S. (2016). Sustainability in the hospitality industry: Prin- ciples of sustainable operations (3rd ed.). London: Routledge</ref-fulltext>
+<ce:source-text>Legrand, W., Sloan, P., &amp; Chen, J. S. (2016). Sustainability in the hospitality industry: Prin- ciples of sustainable operations (3rd ed.). London: Routledge</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Artificial intelligence (AI) in the hospitality industry: A review article</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>International Journal of Computing Sciences Research</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1306</first-page>
+<last-page>1317</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Limna, P. (2023). Artificial intelligence (AI) in the hospitality industry: A review article. International Journal of Computing Sciences Research, 7, 1306–1317. http://orcid.org/ 0000-0002-7448-5261</ref-fulltext>
+<ce:source-text>Limna, P. (2023). Artificial intelligence (AI) in the hospitality industry: A review article. International Journal of Computing Sciences Research, 7, 1306–1317. http://orcid.org/ 0000-0002-7448-5261</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How and when does multitasking affect cus- tomer orientation of hotel employees?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Liu</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Cho</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:surname>Yang</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>C.</ce:initials>
+<ce:surname>Xue</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality and Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>335</first-page>
+<last-page>342</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/J.JHTM.2021.04.009</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Liu, J., Cho, S., Yang, S., &amp; Xue, C. (2021). How and when does multitasking affect cus- tomer orientation of hotel employees? Journal of Hospitality and Tourism Management, 47, 335–342. https://doi.org/10.1016/J.JHTM.2021.04.009</ref-fulltext>
+<ce:source-text>Liu, J., Cho, S., Yang, S., &amp; Xue, C. (2021). How and when does multitasking affect cus- tomer orientation of hotel employees? Journal of Hospitality and Tourism Management, 47, 335–342. https://doi.org/10.1016/J.JHTM.2021.04.009</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Nurses’ intention to stay: The impact of perceived organizational support, job control and job satisfaction</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>X.</ce:initials>
+<ce:surname>Li</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Zhang</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:surname>Yan</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>F.</ce:initials>
+<ce:surname>Wen</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Zhang</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Advanced Nursing</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>76</vol-first>
+<iss-first>5</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1141</first-page>
+<last-page>1150</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/JAN.14305</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Li, X., Zhang, Y., Yan, D., Wen, F., &amp; Zhang, Y. (2020). Nurses’ intention to stay: The impact of perceived organizational support, job control and job satisfaction. Journal of Advanced Nursing, 76(5), 1141–1150. https://doi.org/10.1111/JAN.14305</ref-fulltext>
+<ce:source-text>Li, X., Zhang, Y., Yan, D., Wen, F., &amp; Zhang, Y. (2020). Nurses’ intention to stay: The impact of perceived organizational support, job control and job satisfaction. Journal of Advanced Nursing, 76(5), 1141–1150. https://doi.org/10.1111/JAN.14305</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The effects of psychologi-cal capital, social capital, and human capital on hotel employees’ occupational stress and turnover intention</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Li</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Yu</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.S.</ce:initials>
+<ce:surname>Huang</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Zhou</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:surname>Yu</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>R.</ce:initials>
+<ce:surname>Gu</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>98</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https:// doi.org/10.1016/j.ijhm.2021.103046</ce:e-address>
+</ref-website>
+<ref-text>103046</ref-text>
+</ref-info>
+<ref-fulltext>Li, Z., Yu, Z., Huang, S. S., Zhou, J., Yu, M., &amp; Gu, R. (2021). The effects of psychologi-cal capital, social capital, and human capital on hotel employees’ occupational stress and turnover intention. International Journal of Hospitality Management, 98, 103046. https:// doi.org/10.1016/j.ijhm.2021.103046</ref-fulltext>
+<ce:source-text>Li, Z., Yu, Z., Huang, S. S., Zhou, J., Yu, M., &amp; Gu, R. (2021). The effects of psychologi-cal capital, social capital, and human capital on hotel employees’ occupational stress and turnover intention. International Journal of Hospitality Management, 98, 103046. https:// doi.org/10.1016/j.ijhm.2021.103046</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A model for labor’s renewal? The Starbucks campaign</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Logan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>New Labor Forum</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>87</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/10957960221144972</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Logan, J. (2023). A model for labor’s renewal? The Starbucks campaign. New Labor Forum, 32(1), 87–94. https://doi.org/10.1177/10957960221144972</ref-fulltext>
+<ce:source-text>Logan, J. (2023). A model for labor’s renewal? The Starbucks campaign. New Labor Forum, 32(1), 87–94. https://doi.org/10.1177/10957960221144972</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Quitters from hospitality industry: Misfit or just look- ing for better conditions?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.S.</ce:initials>
+<ce:surname>Lopes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Sargento</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Administrative Sciences</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>14</vol-first>
+<iss-first>6</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>111</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lopes, A. S., &amp; Sargento, A. (2024). Quitters from hospitality industry: Misfit or just look- ing for better conditions? Administrative Sciences, 14(6), 111. https://doi.org/10.3390/ &lt;a name="_bookmark3"&gt;&lt;/a&gt;ADMSCI14060111</ref-fulltext>
+<ce:source-text>Lopes, A. S., &amp; Sargento, A. (2024). Quitters from hospitality industry: Misfit or just look- ing for better conditions? Administrative Sciences, 14(6), 111. https://doi.org/10.3390/ &lt;a name="_bookmark3"&gt;&lt;/a&gt;ADMSCI14060111</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>LSEG Eikon</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Data Obtained from the LSEG Refinitiv Based on a Cooperation Agree- Ment Signed by the University of Gdańsk and the LSEG (Refinitiv)</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>LSEG Eikon (2024). Data obtained from the LSEG Refinitiv based on a cooperation agree- ment signed by the University of Gdańsk and the LSEG (Refinitiv)</ref-fulltext>
+<ce:source-text>LSEG Eikon (2024). Data obtained from the LSEG Refinitiv based on a cooperation agree- ment signed by the University of Gdańsk and the LSEG (Refinitiv)</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Is low unionisation in the British hospitality industry due to industry char- acteristics?</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>42</first-page>
+<last-page>52</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>2009</ref-text>
+</ref-info>
+<ref-fulltext>Lucas, R. (2009). Is low unionisation in the British hospitality industry due to industry char- acteristics? International Journal of Hospitality Management, 28(1), 42–52. https://doi. org/10.1016/j.ijhm.2008.03.002</ref-fulltext>
+<ce:source-text>Lucas, R. (2009). Is low unionisation in the British hospitality industry due to industry char- acteristics? International Journal of Hospitality Management, 28(1), 42–52. https://doi. org/10.1016/j.ijhm.2008.03.002</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Economist, March, 21st</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Luxury Hotels are Having a Glorious Moment</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https:// www.economist.com/business/2024/03/21/luxury-hotels-are-having-a-glorious-moment</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Luxury Hotels Are Having a Glorious Moment (2024). Economist, March, 21st. https:// www.economist.com/business/2024/03/21/luxury-hotels-are-having-a-glorious-moment</ref-fulltext>
+<ce:source-text>Luxury Hotels Are Having a Glorious Moment (2024). Economist, March, 21st. https:// www.economist.com/business/2024/03/21/luxury-hotels-are-having-a-glorious-moment</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Customers’ evaluation of mechanical artificial intel- ligence in hospitality services: A study using online reviews analytics</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Mariani</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Borghi</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+<iss-first>11</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>3956</first-page>
+<last-page>3976</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mariani, M., &amp; Borghi, M. (2021). Customers’ evaluation of mechanical artificial intel- ligence in hospitality services: A study using online reviews analytics. International Journal of Contemporary Hospitality Management, 33(11), 3956–3976. https://doi.org/ 10.1108/IJCHM-06-2020-0622</ref-fulltext>
+<ce:source-text>Mariani, M., &amp; Borghi, M. (2021). Customers’ evaluation of mechanical artificial intel- ligence in hospitality services: A study using online reviews analytics. International Journal of Contemporary Hospitality Management, 33(11), 3956–3976. https://doi.org/ 10.1108/IJCHM-06-2020-0622</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Knowledge agents as drivers of environmental sustainability and business performance in the hospitality sector</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Martínez-Martínez</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.-G.</ce:initials>
+<ce:surname>Cegarra-Navarro</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Garcia-Perez</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>A.</ce:initials>
+<ce:surname>Wensley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>70</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>381</first-page>
+<last-page>389</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Martínez-Martínez, A., Cegarra-Navarro, J.-G., Garcia-Perez, A., &amp; Wensley, A. (2019). Knowledge agents as drivers of environmental sustainability and business performance in the hospitality sector. Tourism Management, 70, 381–389. https://doi.org/10.1016/ &lt;a name="_bookmark4"&gt;&lt;/a&gt;j.tourman.2018.08.030</ref-fulltext>
+<ce:source-text>Martínez-Martínez, A., Cegarra-Navarro, J.-G., Garcia-Perez, A., &amp; Wensley, A. (2019). Knowledge agents as drivers of environmental sustainability and business performance in the hospitality sector. Tourism Management, 70, 381–389. https://doi.org/10.1016/ &lt;a name="_bookmark4"&gt;&lt;/a&gt;j.tourman.2018.08.030</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-title>
+<ref-titletext-english>CSR and customer loyalty: The roles of trust, customer identification with the company and satisfaction</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Martínez</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>I.</ce:initials>
+<ce:surname>Rodríguez Del Bosque</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>89</first-page>
+<last-page>99</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2013.05.009</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Martínez, P., &amp; Rodríguez del Bosque, I. (2013). CSR and customer loyalty: The roles of trust, customer identification with the company and satisfaction. International Journal of Hospitality Management, 35, 89–99. https://doi.org/10.1016/j.ijhm.2013.05.009</ref-fulltext>
+<ce:source-text>Martínez, P., &amp; Rodríguez del Bosque, I. (2013). CSR and customer loyalty: The roles of trust, customer identification with the company and satisfaction. International Journal of Hospitality Management, 35, 89–99. https://doi.org/10.1016/j.ijhm.2013.05.009</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Implicit” and “explicit” CSR: A conceptual framework for a comparative understanding of corporate social responsibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Matten</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Moon</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Academy of Management Review</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>404</first-page>
+<last-page>424</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.5465/AMR.2008.31193458</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Matten, D., &amp; Moon, J. (2008). “Implicit” and “explicit” CSR: A conceptual framework for a comparative understanding of corporate social responsibility. Academy of Management Review, 33(2), 404–424. https://doi.org/10.5465/AMR.2008.31193458</ref-fulltext>
+<ce:source-text>Matten, D., &amp; Moon, J. (2008). “Implicit” and “explicit” CSR: A conceptual framework for a comparative understanding of corporate social responsibility. Academy of Management Review, 33(2), 404–424. https://doi.org/10.5465/AMR.2008.31193458</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Consumers’ pro-environmental behavior and its determinants in the lodging segment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Miao</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.</ce:initials>
+<ce:surname>Wei</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality &amp; Tourism Research</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>40</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>319</first-page>
+<last-page>338</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Miao, L., &amp; Wei, W. (2016). Consumers’ pro-environmental behavior and its determinants in the lodging segment. Journal of Hospitality &amp; Tourism Research, 40(3), 319–338. https:// doi.org/10.1177/1096348013495699</ref-fulltext>
+<ce:source-text>Miao, L., &amp; Wei, W. (2016). Consumers’ pro-environmental behavior and its determinants in the lodging segment. Journal of Hospitality &amp; Tourism Research, 40(3), 319–338. https:// doi.org/10.1177/1096348013495699</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Corporate social responsibility and corporate sustainability. Separate pasts, common futures</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Montiel</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organization Environment</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>21</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>245</first-page>
+<last-page>269</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Montiel, I. (2008). Corporate social responsibility and corporate sustainability. Separate pasts, common futures. Organization Environment, 21(3), 245–269.</ref-fulltext>
+<ce:source-text>Montiel, I. (2008). Corporate social responsibility and corporate sustainability. Separate pasts, common futures. Organization Environment, 21(3), 245–269.</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-title>
+<ref-titletext-english>(2016). Long hospitality careers – A contradiction in terms?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.K.</ce:initials>
+<ce:surname>Mooney</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Harris</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>I.</ce:initials>
+<ce:surname>Ryan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+<iss-first>11</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2589</first-page>
+<last-page>2608</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-04-2015-0206</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Mooney, S. K., Harris, C., &amp; Ryan, I. (2016). Long hospitality careers – A contradiction in terms? International Journal of Contemporary Hospitality Management, 28(11), 2589– 2608. https://doi.org/10.1108/IJCHM-04-2015-0206</ref-fulltext>
+<ce:source-text>Mooney, S. K., Harris, C., &amp; Ryan, I. (2016). Long hospitality careers – A contradiction in terms? International Journal of Contemporary Hospitality Management, 28(11), 2589– 2608. https://doi.org/10.1108/IJCHM-04-2015-0206</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Rethinking tourism’s definition, scope and future of sustainable work and employment”: Editorial for the journal of sus- tainable tourism special issue on “Locating workforce at the heart of sustainable tourism discourse</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Mooney</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.</ce:initials>
+<ce:surname>Solnet</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>T.</ce:initials>
+<ce:surname>Baum</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Sustainable Tourism</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+<iss-first>12</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2707</first-page>
+<last-page>2725</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mooney, S., Robinson, R., Solnet, D., &amp; Baum, T. (2022). “Rethinking tourism’s definition, scope and future of sustainable work and employment”: Editorial for the journal of sus- tainable tourism special issue on “Locating workforce at the heart of sustainable tourism discourse”. Journal of Sustainable Tourism, 30(12), 2707–2725. https://doi.org/10.1080/ 09669582.2022.2078338</ref-fulltext>
+<ce:source-text>Mooney, S., Robinson, R., Solnet, D., &amp; Baum, T. (2022). “Rethinking tourism’s definition, scope and future of sustainable work and employment”: Editorial for the journal of sus- tainable tourism special issue on “Locating workforce at the heart of sustainable tourism discourse”. Journal of Sustainable Tourism, 30(12), 2707–2725. https://doi.org/10.1080/ 09669582.2022.2078338</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Service quality in airport hotel chains through the lens of online reviewers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Moro</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.J.</ce:initials>
+<ce:surname>Lopes</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Esmerado</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:surname>Botelho</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Retailing and Consumer Services</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/J.JRETCONSER.2020.102193</ce:e-address>
+</ref-website>
+<ref-text>102193</ref-text>
+</ref-info>
+<ref-fulltext>Moro, S., Lopes, R. J., Esmerado, J., &amp; Botelho, M. (2020). Service quality in airport hotel chains through the lens of online reviewers. Journal of Retailing and Consumer Services, 56, 102193. https://doi.org/10.1016/J.JRETCONSER.2020.102193</ref-fulltext>
+<ce:source-text>Moro, S., Lopes, R. J., Esmerado, J., &amp; Botelho, M. (2020). Service quality in airport hotel chains through the lens of online reviewers. Journal of Retailing and Consumer Services, 56, 102193. https://doi.org/10.1016/J.JRETCONSER.2020.102193</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info/>
+<ref-fulltext>Murphy, C. (2016) Fear and leadership in union organizing campaigns: An examination of workplace activist behavior. Journal of Workplace Rights, 6(1),, 1–11. https://doi.org/ 10.1177/2158244015623932</ref-fulltext>
+<ce:source-text>Murphy, C. (2016) Fear and leadership in union organizing campaigns: An examination of workplace activist behavior. Journal of Workplace Rights, 6(1),, 1–11. https://doi.org/ 10.1177/2158244015623932</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Neumann</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Social Research Methods: Qualitative and Quantitative Approaches</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<ref-text>Boston: Allyn &amp; Bacon</ref-text>
+</ref-info>
+<ref-fulltext>Neumann, W. (2003). Social research methods: Qualitative and quantitative approaches. Boston: Allyn &amp; Bacon.</ref-fulltext>
+<ce:source-text>Neumann, W. (2003). Social research methods: Qualitative and quantitative approaches. Boston: Allyn &amp; Bacon.</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.L.</ce:initials>
+<ce:surname>Oliver</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Satisfaction: A Behavioral Perspective on the Consumer</ref-sourcetitle>
+<ref-publicationyear first="1997"/>
+<ref-text>New York: McGraw-Hill</ref-text>
+</ref-info>
+<ref-fulltext>Oliver, R. L. (1997). Satisfaction: A behavioral perspective on the consumer. New York: McGraw-Hill.</ref-fulltext>
+<ce:source-text>Oliver, R. L. (1997). Satisfaction: A behavioral perspective on the consumer. New York: McGraw-Hill.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info/>
+<ref-fulltext>Papadopoulos, O., &amp; Ioannou, G. (2023). Working in hospitality and catering in Greece and the UK: Do trade union membership and collective bargaining still matter? European Journal of Industrial Relations, 29(1), 105–122. https://doi.org/10.1177/ 09596801221104943</ref-fulltext>
+<ce:source-text>Papadopoulos, O., &amp; Ioannou, G. (2023). Working in hospitality and catering in Greece and the UK: Do trade union membership and collective bargaining still matter? European Journal of Industrial Relations, 29(1), 105–122. https://doi.org/10.1177/ 09596801221104943</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Violation and lack of aware- ness of employment rights in the United Kingdom’s hotel industry: Isolation, fragmenta- tion and barriers to labour enforcement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Papadopoulos</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Lopez-Andreu</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Jamalian</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Industrial Relations Journal</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>52</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>315</first-page>
+<last-page>330</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1111/irj.12337</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Papadopoulos, O., Lopez-Andreu, M., &amp; Jamalian, M. (2021). Violation and lack of aware- ness of employment rights in the United Kingdom’s hotel industry: Isolation, fragmenta- tion and barriers to labour enforcement. Industrial Relations Journal, 52(4), 315–330. &lt;a name="_bookmark5"&gt;&lt;/a&gt;https://doi.org/10.1111/irj.12337</ref-fulltext>
+<ce:source-text>Papadopoulos, O., Lopez-Andreu, M., &amp; Jamalian, M. (2021). Violation and lack of aware- ness of employment rights in the United Kingdom’s hotel industry: Isolation, fragmenta- tion and barriers to labour enforcement. Industrial Relations Journal, 52(4), 315–330. &lt;a name="_bookmark5"&gt;&lt;/a&gt;https://doi.org/10.1111/irj.12337</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-sourcetitle>The Latest Hospitality Statistics</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-website>
+<ce:e-address type="url">https://unile- ver-professional.com/blogs/news/the-latest-hospitality-statistics</ce:e-address>
+</ref-website>
+<ref-text>Updated August 2024</ref-text>
+</ref-info>
+<ref-fulltext>Pearson, A. (2024). The Latest Hospitality Statistics (Updated August 2024). https://unile-ver-professional.com/blogs/news/the-latest-hospitality-statistics</ref-fulltext>
+<ce:source-text>Pearson, A. (2024). The Latest Hospitality Statistics (Updated August 2024). https://unile-ver-professional.com/blogs/news/the-latest-hospitality-statistics</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Greening the hospitality industry: How do green human resource management practices influence organizational citizenship behavior in hotels? A mixed-methods study</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.T.</ce:initials>
+<ce:surname>Pham</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Tučková</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>C.J.C.</ce:initials>
+<ce:surname>Jabbour</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2019"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>72</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>386</first-page>
+<last-page>399</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pham, N. T., Tučková, Z., &amp; Jabbour, C. J. C. (2019). Greening the hospitality industry: How do green human resource management practices influence organizational citizenship behavior in hotels? A mixed-methods study. Tourism Management, 72, 386–399. https:// doi.org/10.1016/j.tourman.2018.12.008</ref-fulltext>
+<ce:source-text>Pham, N. T., Tučková, Z., &amp; Jabbour, C. J. C. (2019). Greening the hospitality industry: How do green human resource management practices influence organizational citizenship behavior in hotels? A mixed-methods study. Tourism Management, 72, 386–399. https:// doi.org/10.1016/j.tourman.2018.12.008</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Adoption of AI-based chatbots for hospitality and tour- ism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Pillai</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Sivathanu</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>10</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>3199</first-page>
+<last-page>3226</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/IJCHM-04-2020-0259</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Pillai, R., &amp; Sivathanu, B. (2020). Adoption of AI-based chatbots for hospitality and tour- ism. International Journal of Contemporary Hospitality Management, 32(10), 3199– 3226. https://doi.org/10.1108/IJCHM-04-2020-0259</ref-fulltext>
+<ce:source-text>Pillai, R., &amp; Sivathanu, B. (2020). Adoption of AI-based chatbots for hospitality and tour- ism. International Journal of Contemporary Hospitality Management, 32(10), 3199– 3226. https://doi.org/10.1108/IJCHM-04-2020-0259</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Leadership styles, motivating language, and work engagement: An empirical investigation of the hotel industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.K.</ce:initials>
+<ce:surname>Rabiul</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.F.</ce:initials>
+<ce:surname>Yean</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>92</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/J.IJHM.2020.102712</ce:e-address>
+</ref-website>
+<ref-text>102712</ref-text>
+</ref-info>
+<ref-fulltext>Rabiul, M. K., &amp; Yean, T. F. (2021). Leadership styles, motivating language, and work engagement: An empirical investigation of the hotel industry. International Journal of Hospitality Management, 92, 102712. https://doi.org/10.1016/J.IJHM.2020.102712</ref-fulltext>
+<ce:source-text>Rabiul, M. K., &amp; Yean, T. F. (2021). Leadership styles, motivating language, and work engagement: An empirical investigation of the hotel industry. International Journal of Hospitality Management, 92, 102712. https://doi.org/10.1016/J.IJHM.2020.102712</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Job de-mands-job resources (JD-r) model, work engagement, and well-being of cruise ship em-ployees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Radic</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Arjona-Fuentes</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ariza-Montes</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>H.</ce:initials>
+<ce:surname>Han</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.</ce:initials>
+<ce:surname>Law</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>88</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Radic, A., Arjona-Fuentes, J. M., Ariza-Montes, A., Han, H., &amp; Law, R. (2020). Job de-mands-job resources (JD-r) model, work engagement, and well-being of cruise ship em-ployees. International Journal of Hospitality Management, 88. https://doi.org/10.1016/j. ijhm.2020.102518</ref-fulltext>
+<ce:source-text>Radic, A., Arjona-Fuentes, J. M., Ariza-Montes, A., Han, H., &amp; Law, R. (2020). Job de-mands-job resources (JD-r) model, work engagement, and well-being of cruise ship em-ployees. International Journal of Hospitality Management, 88. https://doi.org/10.1016/j. ijhm.2020.102518</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A systematic review of contactless technologies research in hospitality and tourism during the Covid-pandemic</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Rathjens</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Gunden</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>L.</ce:initials>
+<ce:surname>Zhang</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>G.</ce:initials>
+<ce:surname>Jain</ce:surname>
+</author>
+<author seq="5">
+<ce:initials>R.</ce:initials>
+<ce:surname>Law</ce:surname>
+</author>
+<author seq="6">
+<ce:initials>D.A.</ce:initials>
+<ce:surname>Collins</ce:surname>
+</author>
+<author seq="7">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Nale</ce:surname>
+</author>
+<author seq="8">
+<ce:initials>R.D.P.B.</ce:initials>
+<ce:surname>Barr</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality &amp; Tourism Research.</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Rathjens, B., Gunden, N., Zhang, L., Jain, G., &amp; Law, R. (2023). A systematic review of contactless technologies research in hospitality and tourism during the Covid-pandemic. Journal of Hospitality &amp; Tourism Research. https://doi.org/10.1177/10963480231191192 Rauch, D. A., Collins, M. D., Nale, R. D., &amp; Barr, P. B. (2015). Measuring service quality in mid-scale hotels. International Journal of Contemporary Hospitality Management, 27(1),</ref-fulltext>
+<ce:source-text>Rathjens, B., Gunden, N., Zhang, L., Jain, G., &amp; Law, R. (2023). A systematic review of contactless technologies research in hospitality and tourism during the Covid-pandemic. Journal of Hospitality &amp; Tourism Research. https://doi.org/10.1177/10963480231191192 Rauch, D. A., Collins, M. D., Nale, R. D., &amp; Barr, P. B. (2015). Measuring service quality in mid-scale hotels. International Journal of Contemporary Hospitality Management, 27(1),</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<volisspag>
+<page-information>
+<pages>
+<first-page>87</first-page>
+<last-page>106</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>87–106. https://doi.org/10.1108/IJCHM-06-2013-0254</ref-fulltext>
+<ce:source-text>87–106. https://doi.org/10.1108/IJCHM-06-2013-0254</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Consumer aggression and frontline employees’ turnover intention: The role of job anxiety, organizational support, and obligation feeling</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Raza</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>St-Onge</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Ali</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>97</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>103015</ref-text>
+</ref-info>
+<ref-fulltext>Raza, B., St-Onge, S., &amp; Ali, M. (2021). Consumer aggression and frontline employees’ turnover intention: The role of job anxiety, organizational support, and obligation feeling, International Journal of Hospitality Management, 97, 103015. https://doi.org/10.1016/ &lt;a name="_bookmark6"&gt;&lt;/a&gt;J.IJHM.2021.103015</ref-fulltext>
+<ce:source-text>Raza, B., St-Onge, S., &amp; Ali, M. (2021). Consumer aggression and frontline employees’ turnover intention: The role of job anxiety, organizational support, and obligation feeling, International Journal of Hospitality Management, 97, 103015. https://doi.org/10.1016/ &lt;a name="_bookmark6"&gt;&lt;/a&gt;J.IJHM.2021.103015</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>E-loyalty: Your secret weapon on the web</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.F.</ce:initials>
+<ce:surname>Reichheld</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Schefter</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Harvard Business Review</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>78</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>105</first-page>
+<last-page>113</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Reichheld, F. F., &amp; Schefter, P. (2000). E-loyalty: Your secret weapon on the web. Harvard Business Review, 78, 105–113.</ref-fulltext>
+<ce:source-text>Reichheld, F. F., &amp; Schefter, P. (2000). E-loyalty: Your secret weapon on the web. Harvard Business Review, 78, 105–113.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Repression and incorporation: Fear stuff, sweet stuff and evil stuff: Manage- ment’s defenses against unionization in the south</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Roy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Capital and Labour: Studies in the Capitalist Labour Process</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>395</first-page>
+<last-page>415</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In T. Nichols (Ed.), London: Athlone Press</ref-text>
+</ref-info>
+<ref-fulltext>Roy, D. (1980). Repression and incorporation: Fear stuff, sweet stuff and evil stuff: Manage- ment’s defenses against unionization in the south. In T. Nichols (Ed.), Capital and labour: Studies in the capitalist labour process (pp. 395–415). London: Athlone Press.</ref-fulltext>
+<ce:source-text>Roy, D. (1980). Repression and incorporation: Fear stuff, sweet stuff and evil stuff: Manage- ment’s defenses against unionization in the south. In T. Nichols (Ed.), Capital and labour: Studies in the capitalist labour process (pp. 395–415). London: Athlone Press.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Multinational corporations, employers’ associations and trade union ex- clusion strategies in the German fast-food industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Royle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Employee Relations</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>437</first-page>
+<last-page>460</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/01425450210435563</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Royle, T. (2002). Multinational corporations, employers’ associations and trade union ex- clusion strategies in the German fast-food industry. Employee Relations, 24(4), 437–460. https://doi.org/10.1108/01425450210435563</ref-fulltext>
+<ce:source-text>Royle, T. (2002). Multinational corporations, employers’ associations and trade union ex- clusion strategies in the German fast-food industry. Employee Relations, 24(4), 437–460. https://doi.org/10.1108/01425450210435563</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A new form of union organizing in Japan? Community un- ions and the case of the McDonald’s “McUnion” work</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Royle</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Urano</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Employment and Society</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>606</first-page>
+<last-page>622</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1177/0950017012445093</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Royle, T., &amp; Urano, E. (2012). A new form of union organizing in Japan? Community un- ions and the case of the McDonald’s “McUnion” work. Employment and Society, 26(4), 606–622. https://doi.org/10.1177/0950017012445093</ref-fulltext>
+<ce:source-text>Royle, T., &amp; Urano, E. (2012). A new form of union organizing in Japan? Community un- ions and the case of the McDonald’s “McUnion” work. Employment and Society, 26(4), 606–622. https://doi.org/10.1177/0950017012445093</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>AI redefining the hospitality industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Ruel</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Njoku</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Tourism Futures</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>53</first-page>
+<last-page>66</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1108/JTF-03-2020-0032</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Ruel, H., &amp; Njoku, E. (2020). AI redefining the hospitality industry. Journal of Tourism Futures, 7(1), 53–66. https://doi.org/10.1108/JTF-03-2020-0032</ref-fulltext>
+<ce:source-text>Ruel, H., &amp; Njoku, E. (2020). AI redefining the hospitality industry. Journal of Tourism Futures, 7(1), 53–66. https://doi.org/10.1108/JTF-03-2020-0032</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Who gets power–and how they hold on to it: A strategic-contingency model of power</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.R.</ce:initials>
+<ce:surname>Salancik</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Pfeffer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organizational Dynamics</ref-sourcetitle>
+<ref-publicationyear first="1977"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2</first-page>
+<last-page>21</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Salancik, G. R., &amp; Pfeffer, J. (1977). Who gets power–and how they hold on to it: A strategic-contingency model of power. Organizational Dynamics, 5(3), 2–21. https://doi.org/10.1016/0090-2616(77)90028-6</ref-fulltext>
+<ce:source-text>Salancik, G. R., &amp; Pfeffer, J. (1977). Who gets power–and how they hold on to it: A strategic-contingency model of power. Organizational Dynamics, 5(3), 2–21. https://doi.org/10.1016/0090-2616(77)90028-6</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How does the tourism and hospital- ity industry use artificial intelligence? A review of empirical studies and future research agenda</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.B.</ce:initials>
+<ce:surname>Saydam</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.E.</ce:initials>
+<ce:surname>Arici</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.A.</ce:initials>
+<ce:surname>Koseoglu</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Hospitality Marketing &amp; Management</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>31</vol-first>
+<iss-first>8</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>908</first-page>
+<last-page>936</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Saydam, M. B., Arici, H. E., &amp; Koseoglu, M. A. (2022). How does the tourism and hospital- ity industry use artificial intelligence? A review of empirical studies and future research agenda. Journal of Hospitality Marketing &amp; Management, 31(8), 908–936. https://doi.or g/10.1080/19368623.2022.2118923</ref-fulltext>
+<ce:source-text>Saydam, M. B., Arici, H. E., &amp; Koseoglu, M. A. (2022). How does the tourism and hospital- ity industry use artificial intelligence? A review of empirical studies and future research agenda. Journal of Hospitality Marketing &amp; Management, 31(8), 908–936. https://doi.or g/10.1080/19368623.2022.2118923</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Corporate sustainability performance measurement systems: A review and research agenda</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Searcy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Business Ethics</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>107</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>239</first-page>
+<last-page>253</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">-z</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Searcy, C. (2012). Corporate sustainability performance measurement systems: A review and research agenda. Journal of Business Ethics, 107, 239–253. https://doi.org/10.1007/ s10551-011-1038-z</ref-fulltext>
+<ce:source-text>Searcy, C. (2012). Corporate sustainability performance measurement systems: A review and research agenda. Journal of Business Ethics, 107, 239–253. https://doi.org/10.1007/ s10551-011-1038-z</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Sloan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>W.</ce:initials>
+<ce:surname>Legrand</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.S.</ce:initials>
+<ce:surname>Chen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Sustainability in the Hospitality Industry. Prin- Ciples of Sustainable Operations</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Oxford: Elsevier</ref-text>
+</ref-info>
+<ref-fulltext>Sloan, P., Legrand, W., &amp; Chen, J. S. (2009). Sustainability in the hospitality industry. Prin- ciples of sustainable operations. Oxford: Elsevier.</ref-fulltext>
+<ce:source-text>Sloan, P., Legrand, W., &amp; Chen, J. S. (2009). Sustainability in the hospitality industry. Prin- ciples of sustainable operations. Oxford: Elsevier.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Statista</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Hotels – Worldwide</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Statista (2024a). Hotels – Worldwide. https://www.statista.com/outlook/mmo/travel-tourism/ hotels/worldwide</ref-fulltext>
+<ce:source-text>Statista (2024a). Hotels – Worldwide. https://www.statista.com/outlook/mmo/travel-tourism/ hotels/worldwide</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Statista</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Travel &amp; Tourism - United Kingdom</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Statista (2024b). Travel &amp; Tourism - United Kingdom. https://www.statista.com/outlook/ mmo/travel-tourism/united-kingdom</ref-fulltext>
+<ce:source-text>Statista (2024b). Travel &amp; Tourism - United Kingdom. https://www.statista.com/outlook/ mmo/travel-tourism/united-kingdom</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Statista</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Travel &amp; Tourism – United States.</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Statista (2024c). Travel &amp; Tourism – United States. https://www.statista.com/outlook/mmo/ travel-tourism/united-states</ref-fulltext>
+<ce:source-text>Statista (2024c). Travel &amp; Tourism – United States. https://www.statista.com/outlook/mmo/ travel-tourism/united-states</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Statista</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Travel &amp; Tourism – Worldwide</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>Statista (2024d). Travel &amp; Tourism – Worldwide. https://www.statista.com/outlook/mmo/ travel-tourism/worldwide</ref-fulltext>
+<ce:source-text>Statista (2024d). Travel &amp; Tourism – Worldwide. https://www.statista.com/outlook/mmo/ travel-tourism/worldwide</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Strategic leadership of corporate sustainability</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Strand</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Business Ethics</ref-sourcetitle>
+<ref-publicationyear first="2014"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>123</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>687</first-page>
+<last-page>706</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1007/s10551-013-2017-3</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Strand, R. (2014). Strategic leadership of corporate sustainability. Journal of Business Ethics, 123(4), 687–706. https://doi.org/10.1007/s10551-013-2017-3.</ref-fulltext>
+<ce:source-text>Strand, R. (2014). Strategic leadership of corporate sustainability. Journal of Business Ethics, 123(4), 687–706. https://doi.org/10.1007/s10551-013-2017-3.</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Water management in the European hospitality sector: Best practice, performance benchmarks and improve-ment potential</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Styles</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Schoenberger</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.L.</ce:initials>
+<ce:surname>Galvez-Matros</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Tourism Management</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>46</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>187</first-page>
+<last-page>202</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Styles, D., Schoenberger, H., &amp; Galvez-Matros, J. L. (2015). Water management in the European hospitality sector: Best practice, performance benchmarks and improve-ment potential, Tourism Management, 46, 187–202. https://doi.org/10.1016/j.tourman. 2014.07.005</ref-fulltext>
+<ce:source-text>Styles, D., Schoenberger, H., &amp; Galvez-Matros, J. L. (2015). Water management in the European hospitality sector: Best practice, performance benchmarks and improve-ment potential, Tourism Management, 46, 187–202. https://doi.org/10.1016/j.tourman. 2014.07.005</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Global Backlash Against Climate Policies Has Begun</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Econo-Mist</ref-sourcetitle>
+<ref-publicationyear first="2023"/>
+<ref-text>October 11</ref-text>
+</ref-info>
+<ref-fulltext>The Global Backlash Against Climate Policies Has Begun (2023, October 11). Econo-mist. https://www.economist.com/international/2023/10/11/the-global-backlash-against- climate-policies-has-begun</ref-fulltext>
+<ce:source-text>The Global Backlash Against Climate Policies Has Begun (2023, October 11). Econo-mist. https://www.economist.com/international/2023/10/11/the-global-backlash-against- climate-policies-has-begun</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The War on Tourism Is Often Self-Harming</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Economist</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-text>July 29th</ref-text>
+</ref-info>
+<ref-fulltext>The War on Tourism Is Often Self-Harming (2024). Economist. July 29th. https://www.econ- omist.com/finance-and-economics/2024/07/29/the-war-on-tourism-is-often-self-harming</ref-fulltext>
+<ce:source-text>The War on Tourism Is Often Self-Harming (2024). Economist. July 29th. https://www.econ- omist.com/finance-and-economics/2024/07/29/the-war-on-tourism-is-often-self-harming</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Guest editorial: Family business in tourism and hospitality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Valeri</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Fam-</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+</ref-info>
+<ref-fulltext>Valeri, M. (2022). Guest editorial: Family business in tourism and hospitality. Journal of Fam-</ref-fulltext>
+<ce:source-text>Valeri, M. (2022). Guest editorial: Family business in tourism and hospitality. Journal of Fam-</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-sourcetitle>Ily Business Management</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>12</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>357</first-page>
+<last-page>366</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>ily Business Management, 12(3), 357–366. https://doi.org/10.1108/JFBM-09-2022-158</ref-fulltext>
+<ce:source-text>ily Business Management, 12(3), 357–366. https://doi.org/10.1108/JFBM-09-2022-158</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Decent work in tourism and hospitality – A systematic</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>�Wan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>&amp; Cheun</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<ref-text>C</ref-text>
+</ref-info>
+<ref-fulltext>�Wang, D., &amp; Cheung, C. (2024). Decent work in tourism and hospitality – A systematic</ref-fulltext>
+<ce:source-text>�Wang, D., &amp; Cheung, C. (2024). Decent work in tourism and hospitality – A systematic</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-title>
+<ref-titletext-english>literature review, classification, and research recommendations</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>International Journal of Contemporary Hospitality Management</ref-sourcetitle>
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+<iss-first>7</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>2194</first-page>
+<last-page>2213</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>literature review, classification, and research recommendations. International Journal of Contemporary Hospitality Management, 36(7), 2194–2213. https://doi.org/10.1108/ IJCHM-10-2022-1263</ref-fulltext>
+<ce:source-text>literature review, classification, and research recommendations. International Journal of Contemporary Hospitality Management, 36(7), 2194–2213. https://doi.org/10.1108/ IJCHM-10-2022-1263</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Global strategies in the international hotel industry</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Whitla</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.G.P.</ce:initials>
+<ce:surname>Walters</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>H.</ce:initials>
+<ce:surname>Davies</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2007"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>26</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>777</first-page>
+<last-page>792</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Whitla, P., Walters, P. G. P., &amp; Davies, H. (2007). Global strategies in the international hotel industry. International Journal of Hospitality Management, 26(4), 777–792. https://doi. org/10.1016/J.IJHM.2006.08.001</ref-fulltext>
+<ce:source-text>Whitla, P., Walters, P. G. P., &amp; Davies, H. (2007). Global strategies in the international hotel industry. International Journal of Hospitality Management, 26(4), 777–792. https://doi. org/10.1016/J.IJHM.2006.08.001</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Whitley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Divergent Capitalisms: The Social Structuring and Change of Business Systems</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>Oxford: Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Whitley, R. (1999). Divergent capitalisms: The social structuring and change of business systems. Oxford: Oxford University Press.</ref-fulltext>
+<ce:source-text>Whitley, R. (1999). Divergent capitalisms: The social structuring and change of business systems. Oxford: Oxford University Press.</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-sourcetitle>Why Workers are Fleeing the Hospitality Sector</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<ref-website>
+<ce:e-address type="url">. https://www. economist.com/business/2022/01/08/why-workers-are-fleeing-the-hospitality-sector</ce:e-address>
+</ref-website>
+<ref-text>January 8th</ref-text>
+</ref-info>
+<ref-fulltext>Why Workers Are Fleeing the Hospitality Sector (2022). Economist. January 8th. https://www. economist.com/business/2022/01/08/why-workers-are-fleeing-the-hospitality-sector</ref-fulltext>
+<ce:source-text>Why Workers Are Fleeing the Hospitality Sector (2022). Economist. January 8th. https://www. economist.com/business/2022/01/08/why-workers-are-fleeing-the-hospitality-sector</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Perspectives on hospitality industry trade unionism in the UK and beyond</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Research in Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2020"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>137</first-page>
+<last-page>147</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wood, R. C. (2020). Perspectives on hospitality industry trade unionism in the UK and beyond. Research in Hospitality Management, 10(2), 137–147. https://doi.org/10.1080/ 22243534.2020.1869456</ref-fulltext>
+<ce:source-text>Wood, R. C. (2020). Perspectives on hospitality industry trade unionism in the UK and beyond. Research in Hospitality Management, 10(2), 137–147. https://doi.org/10.1080/ 22243534.2020.1869456</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>World Travel &amp; Tourism Council (WTTC).</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Travel &amp; Tourism Economic Impact.</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+</ref-info>
+<ref-fulltext>World Travel &amp; Tourism Council (WTTC). (2024). Travel &amp; Tourism Economic Impact. https://wttc.org/research/economic-impact</ref-fulltext>
+<ce:source-text>World Travel &amp; Tourism Council (WTTC). (2024). Travel &amp; Tourism Economic Impact. https://wttc.org/research/economic-impact</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Tourists’ pro-environmental behaviors: Moral obli- gation or disengagement?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Wu</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>F.</ce:initials>
+<ce:surname>Xavier</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>J.</ce:initials>
+<ce:surname>Liu</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Travel Research</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>60</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>735</first-page>
+<last-page>748</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wu, J., Xavier, F., &amp; Liu, J. (2021). Tourists’ pro-environmental behaviors: Moral obli- gation or disengagement? Journal of Travel Research, 60(4), 735–748. https://doi.org/ 10.1177/0047287520910787</ref-fulltext>
+<ce:source-text>Wu, J., Xavier, F., &amp; Liu, J. (2021). Tourists’ pro-environmental behaviors: Moral obli- gation or disengagement? Journal of Travel Research, 60(4), 735–748. https://doi.org/ 10.1177/0047287520910787</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Factors influencing intercultural sensitivity of hospitality employees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Yurur</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Koc</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>C.</ce:initials>
+<ce:surname>Taskin</ce:surname>
+</author>
+<author seq="4">
+<ce:initials>H.</ce:initials>
+<ce:surname>Boz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality &amp; Tourism Administration</ref-sourcetitle>
+<ref-publicationyear first="2021"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>26</first-page>
+<last-page>44</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1080/15256480.2018.1547236</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Yurur, S., Koc, E., Taskin, C., &amp; Boz, H. (2021). Factors influencing intercultural sensitivity of hospitality employees. International Journal of Hospitality &amp; Tourism Administration, 22(1), 26–44. https://doi.org/10.1080/15256480.2018.1547236</ref-fulltext>
+<ce:source-text>Yurur, S., Koc, E., Taskin, C., &amp; Boz, H. (2021). Factors influencing intercultural sensitivity of hospitality employees. International Journal of Hospitality &amp; Tourism Administration, 22(1), 26–44. https://doi.org/10.1080/15256480.2018.1547236</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.A.</ce:initials>
+<ce:surname>Zeithaml</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Bitner</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>D.D.</ce:initials>
+<ce:surname>Gremler</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Service Marketing: Integrating Customer Focus across the Firm</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>New York: McGraw-Hill/Irwin</ref-text>
+</ref-info>
+<ref-fulltext>Zeithaml, V. A., Bitner, M. J., &amp; Gremler, D. D. (2006). Service marketing: Integrating customer focus across the firm. New York: McGraw-Hill/Irwin.</ref-fulltext>
+<ce:source-text>Zeithaml, V. A., Bitner, M. J., &amp; Gremler, D. D. (2006). Service marketing: Integrating customer focus across the firm. New York: McGraw-Hill/Irwin.</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How could hospitality employees survive? The in- dividual costs, career decisions and autonomy support of furlough strategies in a crisis</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Zheng</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Wu</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>X.</ce:initials>
+<ce:surname>Zhao</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2022"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>106</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">. https://doi.org/10.1016/ J.IJHM.2022.103279</ce:e-address>
+</ref-website>
+<ref-text>103279</ref-text>
+</ref-info>
+<ref-fulltext>Zheng, C., Wu, J., &amp; Zhao, X. (2022). How could hospitality employees survive? The in- dividual costs, career decisions and autonomy support of furlough strategies in a crisis. International Journal of Hospitality Management, 106, 103279. https://doi.org/10.1016/ J.IJHM.2022.103279</ref-fulltext>
+<ce:source-text>Zheng, C., Wu, J., &amp; Zhao, X. (2022). How could hospitality employees survive? The in- dividual costs, career decisions and autonomy support of furlough strategies in a crisis. International Journal of Hospitality Management, 106, 103279. https://doi.org/10.1016/ J.IJHM.2022.103279</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Factors affecting hospitality Workers’ intention to leave the industry during the coronavirus pandemic. Evidence from the UK</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Adamska-Mieruszewska</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bąk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Quality Assurance in Hospitality &amp; Tourism</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>874</first-page>
+<last-page>907</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024a). Factors affecting hospitality Workers’ intention to leave the industry during the coronavirus pandemic. Evidence from the UK. Journal of Quality Assurance in Hospitality &amp; Tourism, 25(4), 874–907. https:// doi.org/10.1080/1528008X.2022.2141945</ref-fulltext>
+<ce:source-text>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024a). Factors affecting hospitality Workers’ intention to leave the industry during the coronavirus pandemic. Evidence from the UK. Journal of Quality Assurance in Hospitality &amp; Tourism, 25(4), 874–907. https:// doi.org/10.1080/1528008X.2022.2141945</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Understanding employee reac- tions to union-busting in the US hospitality industry: An analysis based on union attitudes and cognitive frames</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Adamska-Mieruszewska</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bąk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Hospitality Management</ref-sourcetitle>
+<ref-publicationyear first="2024"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>119</vol-first>
+<iss-first>103709</iss-first>
+</volume-issue-number>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.1016/j.ijhm.2024.103709</ce:e-address>
+</ref-website>
+<ref-text>(b)</ref-text>
+</ref-info>
+<ref-fulltext>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024b). Understanding employee reac- tions to union-busting in the US hospitality industry: An analysis based on union attitudes and cognitive frames. International Journal of Hospitality Management, 119, 103709. https://doi.org/10.1016/j.ijhm.2024.103709</ref-fulltext>
+<ce:source-text>Zientara, P., Adamska-Mieruszewska, J., &amp; Bąk, M. (2024b). Understanding employee reac- tions to union-busting in the US hospitality industry: An analysis based on union attitudes and cognitive frames. International Journal of Hospitality Management, 119, 103709. https://doi.org/10.1016/j.ijhm.2024.103709</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mechanisms and tools for measuring and reporting sustainability in the hotel industry: A practical dimension</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Zientara</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Bohdanowicz-Godfrey</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Measuring and Controlling Sustainability. Spanning Theory and Practice</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>189</first-page>
+<last-page>206</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>In A. Lindgreen, Ch. Vallaster, S. Yousafzai, &amp; B. Hirsch (Eds.), Abingdon: Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Zientara, P., &amp; Bohdanowicz-Godfrey, P. (2018). Mechanisms and tools for measuring and reporting sustainability in the hotel industry: A practical dimension. In A. Lindgreen, Ch. Vallaster, S. Yousafzai, &amp; B. Hirsch (Eds.), Measuring and controlling sustainability. Spanning theory and practice (pp. 189–206). Abingdon: Routledge.</ref-fulltext>
+<ce:source-text>Zientara, P., &amp; Bohdanowicz-Godfrey, P. (2018). Mechanisms and tools for measuring and reporting sustainability in the hotel industry: A practical dimension. In A. Lindgreen, Ch. Vallaster, S. Yousafzai, &amp; B. Hirsch (Eds.), Measuring and controlling sustainability. Spanning theory and practice (pp. 189–206). Abingdon: Routledge.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

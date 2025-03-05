@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-01T15:13:22</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.1002/9781119202363</ce:doi>
+<itemid idtype="TPB-ID">20252000062688</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">What Makes Business Rock: Building the World's Largest Global Networks</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Roedy</ce:surname>
+<ce:given-name>Bill</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Fisher</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2011 by Bill Roedy. All rights reserved</publishercopyright>
+<ce:para>Global business lessons from Bill Roedy, the man who built the world's largest entertainment network. What Makes Business Rock is the compelling story of how Bill Roedy, the Chairman and CEO of MTV International, built the largest international entertainment network in existence, much of the time having to make up answers for questions which had never before been asked. It's a free-wheeling, rock and rolling tale filled with a fascinating cast of characters including British entrepreneur Robert Maxwell, Rupert Murdoch and Sumner Redstone, Bono, the Pope, and a range of legendary politicians such as Nelson Mandela, Vladimir Putin, and Fidel Castro. An important primer on how to build and manage a business in an environment of continually evolving and developing communications platforms. Deals with the cultural demands of countries as diverse as China, Zambia, and Ireland. A business book masquerading as the memoir of one of the most important people in the music industry. Entertaining and engaging, What Makes Business Rock offers an up close look at Bill Roedy the person and professional, and uncovers the innovative strategies he used to help make MTV the most successful, and best known, media brand in the world.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>What Makes Business Rock: Building the World's Largest Global Networks</sourcetitle>
+<sourcetitle-abbrev>What Makes bus. Rock: build. the World's larg. glob. Networks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781118004760</isbn>
+<isbn type="electronic" length="13">9781119202363</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>295</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<month>10</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202363</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit></units>

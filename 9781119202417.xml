@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-03T09:57:31</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.1002/9781119202417</ce:doi>
+<itemid idtype="TPB-ID">20252000066480</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Behavioral Finance and Investor Types: Managing Behavior to Make Better Investment Decisions</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Pompian</ce:surname>
+<ce:given-name>Michael M.</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>M.M.</ce:initials>
+<ce:surname>Pompian</ce:surname>
+<ce:given-name>Michael M.</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2012 by Michael M. Pompian. All rights reserved</publishercopyright>
+<ce:para>Achieve investing success by understanding your behavior type This groundbreaking book shows how to invest wisely by managing your behavior, and not just your money. Step by step, Michael Pompian (a leading authority in the practical application of Behavioral Finance concepts to wealth management) helps you plan a strategy targeted to your personality. The book includes a test for determining your investment type and offers strategies you can put into use when investing. It also includes a brief history of the stock market, and easy-to-comprehend information about stocks and investing to help you lay a solid foundation for your investment decisions. Behavioral Finance and Investor Types is divided into two parts. Test Your Type, gives an overview of Behavioral Finance as well as the elements that come into play when figuring out BIT, like active or passive traits, risk tolerance, and biases. The book includes a quiz to help you discover what category you are in. Plan and Act, contains the traits common to your type; an analysis of the biases associated with your type; and strategies and solutions that compliment and capitalize on your BIT. Offers a practical guide to an investing strategy that fits both your financial situation and your personality type Includes a test for determining your tolerance for risk and other traits that will determine your investment type Written by the Director of the Private Wealth Practice for Hammond Associates—an investment consulting firm serving institutional and private wealth clients Behavioral Finance and Investor Types offers investors a better sense of what drives them and what puts on their breaks. By using the information found here, you'll quickly become savvy about the world of investing because you'll come to understand your place in it.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Behavioral Finance and Investor Types: Managing Behavior to Make Better Investment Decisions</sourcetitle>
+<sourcetitle-abbrev>Behavioral Finance and invest. Types: Managing behav. to make n.a. invest. Decisions</sourcetitle-abbrev>
+<isbn type="print" length="13">9781118011508</isbn>
+<isbn type="electronic" length="13">9781119202417</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>245</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<month>10</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202417</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="46">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Women Fitness—A Complete Online Guide to Achieve Healthy Weight Loss and Optimum Fitness</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Top 10 Triggers for Over-Eating</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-website>
+<ce:e-address type="url">www.womenfitness.net/over-eating.htm</ce:e-address>
+</ref-website>
+<ref-text>Fitness Women, Women’s Fitness, Women Health, Woman Health, Health, Womensfitness</ref-text>
+</ref-info>
+<ref-fulltext>“Top 10 Triggers for Over-Eating,” Women Fitness—A Complete Online Guide to Achieve Healthy Weight Loss and Optimum Fitness (Fitness Women, Women’s Fitness, Women Health, Woman Health, Health, Womensfitness), www.womenfitness.net/over-eating.htm (accessed July 5, 2011).</ref-fulltext>
+<ce:source-text>“Top 10 Triggers for Over-Eating,” Women Fitness—A Complete Online Guide to Achieve Healthy Weight Loss and Optimum Fitness (Fitness Women, Women’s Fitness, Women Health, Woman Health, Health, Womensfitness), www.womenfitness.net/over-eating.htm (accessed July 5, 2011).</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Colby</ce:surname>
+<ce:given-name>Annette</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>When was the Last Time You Felt Fantastic?: Imagine Living Your Most Perfect Life and Feeling Better than You Ever Thought Possible</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-website>
+<ce:e-address type="url">www.annettecolby.com</ce:e-address>
+</ref-website>
+<ref-text>Accessed July 5</ref-text>
+</ref-info>
+<ref-fulltext>Annette Colby, “When Was the Last Time You Felt Fantastic?: Imagine Living Your Most Perfect Life and Feeling Better Than You Ever Thought Possible!” www.annettecolby.com (accessed July 5, 2011).</ref-fulltext>
+<ce:source-text>Annette Colby, “When Was the Last Time You Felt Fantastic?: Imagine Living Your Most Perfect Life and Feeling Better Than You Ever Thought Possible!” www.annettecolby.com (accessed July 5, 2011).</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Market Efficiency, Long-Term Returns, and Behavioral Finance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Fama</ce:surname>
+<ce:given-name>Eugene</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2004"/>
+<ref-text>October 18</ref-text>
+</ref-info>
+<ref-fulltext>Eugene Fama, “Market Efficiency, Long-Term Returns, and Behavioral Finance,” Wall Street Journal, October 18, 2004.</ref-fulltext>
+<ce:source-text>Eugene Fama, “Market Efficiency, Long-Term Returns, and Behavioral Finance,” Wall Street Journal, October 18, 2004.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Statman</ce:surname>
+<ce:given-name>Meir</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Behaviorial Finance: Past Battles and Future Engagements</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>Association for Investment Management and Research</ref-text>
+</ref-info>
+<ref-fulltext>Meir Statman, “Behaviorial Finance: Past Battles and Future Engagements,” Association for Investment Management and Research, 1999.</ref-fulltext>
+<ce:source-text>Meir Statman, “Behaviorial Finance: Past Battles and Future Engagements,” Association for Investment Management and Research, 1999.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Cross-Section of Expected Stock Returns</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Fama</ce:surname>
+<ce:given-name>Eugene</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>French</ce:surname>
+<ce:given-name>Kenneth</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Finance</ref-sourcetitle>
+<ref-publicationyear first="1992"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>427</first-page>
+<last-page>465</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Eugene Fama and Kenneth French, “The Cross-Section of Expected Stock Returns,” Journal of Finance 47, no. 2 (1992): 427–465.</ref-fulltext>
+<ce:source-text>Eugene Fama and Kenneth French, “The Cross-Section of Expected Stock Returns,” Journal of Finance 47, no. 2 (1992): 427–465.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-sourcetitle>Dreman Value Management</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">www.dreman.com</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Dreman Value Management website: www.dreman.com.</ref-fulltext>
+<ce:source-text>Dreman Value Management website: www.dreman.com.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>O&#x2019;Shaughnessy</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>What Works on Wall Street</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>New York: McGraw-Hill Professional</ref-text>
+</ref-info>
+<ref-fulltext>James O’Shaughnessy, What Works on Wall Street (New York: McGraw-Hill Professional, 2005).</ref-fulltext>
+<ce:source-text>James O’Shaughnessy, What Works on Wall Street (New York: McGraw-Hill Professional, 2005).</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-sourcetitle>Dreman Value</ref-sourcetitle>
+<ref-website>
+<ce:e-address type="url">www.dreman.com</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Dreman Value: www.dreman.com.</ref-fulltext>
+<ce:source-text>Dreman Value: www.dreman.com.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The January Effect: Still There After All These Years</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Haugen</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Jorion</ce:surname>
+<ce:given-name>Philippe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Analysts Journal</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>52</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>27</first-page>
+<last-page>31</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>January–February</ref-text>
+</ref-info>
+<ref-fulltext>Robert Haugen and Philippe Jorion, “The January Effect: Still There After All These Years,” Financial Analysts Journal 52 (1) (January–February 1996): 27–31.</ref-fulltext>
+<ce:source-text>Robert Haugen and Philippe Jorion, “The January Effect: Still There After All These Years,” Financial Analysts Journal 52 (1) (January–February 1996): 27–31.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Russell Investment Group</ce:text>
+</collaboration>
+</ref-authors>
+<ref-website>
+<ce:e-address type="url">www.russell.com/us/educationcenter</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Russell Investment Group website: www.russell.com/us/educationcenter.</ref-fulltext>
+<ce:source-text>Russell Investment Group website: www.russell.com/us/educationcenter.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Investment Results from Exploiting Turn-of-the-Month Effects</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.R.</ce:initials>
+<ce:surname>Hensel</ce:surname>
+<ce:given-name>Chris R.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>W.T.</ce:initials>
+<ce:surname>Ziemba</ce:surname>
+<ce:given-name>William T.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Portfolio Management</ref-sourcetitle>
+<ref-publicationyear first="1996"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>17</first-page>
+<last-page>23</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Spring</ref-text>
+</ref-info>
+<ref-fulltext>Chris R. Hensel and William T. Ziemba, “Investment Results from Exploiting Turn-of-the-Month Effects,” Journal of Portfolio Management 22, no. 3 (Spring 1996): 17–23.</ref-fulltext>
+<ce:source-text>Chris R. Hensel and William T. Ziemba, “Investment Results from Exploiting Turn-of-the-Month Effects,” Journal of Portfolio Management 22, no. 3 (Spring 1996): 17–23.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Langer</ce:surname>
+<ce:given-name>Ellen</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Psychology of Control</ref-sourcetitle>
+<ref-publicationyear first="1983"/>
+<ref-text>Beverly Hills, CA: Sage</ref-text>
+</ref-info>
+<ref-fulltext>Ellen Langer, Psychology of Control (Beverly Hills, CA: Sage, 1983).</ref-fulltext>
+<ce:source-text>Ellen Langer, Psychology of Control (Beverly Hills, CA: Sage, 1983).</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Towards a Positive Theory of Consumer Choice</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Thaler</ce:surname>
+<ce:given-name>Richard</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Economic Behavior and Organization</ref-sourcetitle>
+<ref-publicationyear first="1980"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>39</first-page>
+<last-page>60</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Richard Thaler, “Towards a Positive Theory of Consumer Choice,” Journal of Economic Behavior and Organization 1 (1980): 39–60.</ref-fulltext>
+<ce:source-text>Richard Thaler, “Towards a Positive Theory of Consumer Choice,” Journal of Economic Behavior and Organization 1 (1980): 39–60.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-sourcetitle>Behavioral Finance: Past Battles and Future Engagements,” Financial Analysts Journal</ref-sourcetitle>
+<ref-publicationyear first="1999"/>
+<ref-text>November/December</ref-text>
+</ref-info>
+<ref-fulltext>”Behavioral Finance: Past Battles and Future Engagements,” Financial Analysts Journal, November/December 1999.</ref-fulltext>
+<ce:source-text>”Behavioral Finance: Past Battles and Future Engagements,” Financial Analysts Journal, November/December 1999.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Shefrin</ce:surname>
+<ce:given-name>Hersh</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Statman</ce:surname>
+<ce:given-name>Meir</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Journal of Financial and Quantitative Analysis</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>35</vol-first>
+<iss-first>2</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>127</first-page>
+<last-page>151</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>June</ref-text>
+</ref-info>
+<ref-fulltext>Hersh Shefrin and Meir Statman, The Journal of Financial and Quantitative Analysis 35, no. 2 (June 2000): 127–151.</ref-fulltext>
+<ce:source-text>Hersh Shefrin and Meir Statman, The Journal of Financial and Quantitative Analysis 35, no. 2 (June 2000): 127–151.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Experimental Tests of the Mean-Variance Model for Portfolio Selection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Kroll</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Levy</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Rapoport</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Organizational Behavior and Human Decision Processes</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>42</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>388</first-page>
+<last-page>410</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Y. Kroll, H. Levy, and A. Rapoport, “Experimental Tests of the Mean-Variance Model for Portfolio Selection,” Organizational Behavior and Human Decision Processes 42 (1988): 388–410.</ref-fulltext>
+<ce:source-text>Y. Kroll, H. Levy, and A. Rapoport, “Experimental Tests of the Mean-Variance Model for Portfolio Selection,” Organizational Behavior and Human Decision Processes 42 (1988): 388–410.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Prospect Theory: An Analysis of Decisions Under Risk</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kahneman</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Tversky</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Econometrica</ref-sourcetitle>
+<ref-publicationyear first="1979"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>47</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>313</first-page>
+<last-page>327</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>D. Kahneman, and A. Tversky, “Prospect Theory: An Analysis of Decisions Under Risk,” Econometrica 47 (1979): 313–327.</ref-fulltext>
+<ce:source-text>D. Kahneman, and A. Tversky, “Prospect Theory: An Analysis of Decisions Under Risk,” Econometrica 47 (1979): 313–327.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Status Quo Bias in Decision Making</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.</ce:initials>
+<ce:surname>Samuelson</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Zeckhauser</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Risk and Uncertainty</ref-sourcetitle>
+<ref-publicationyear first="1988"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>7</first-page>
+<last-page>59</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>W. Samuelson, and R. Zeckhauser, “Status Quo Bias in Decision Making,” Journal of Risk and Uncertainty 1 (1988): 7-59.</ref-fulltext>
+<ce:source-text>W. Samuelson, and R. Zeckhauser, “Status Quo Bias in Decision Making,” Journal of Risk and Uncertainty 1 (1988): 7-59.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.P.</ce:initials>
+<ce:surname>Allen</ce:surname>
+<ce:given-name>Bem P.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories: Development, Growth, and Diversity</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>376</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>3rd ed. Boston: Pearson/Allyn &amp; Bacon</ref-text>
+</ref-info>
+<ref-fulltext>Bem P. Allen, Personality Theories: Development, Growth, and Diversity. 3rd ed. (Boston: Pearson/Allyn &amp; Bacon, 2006), 376.</ref-fulltext>
+<ce:source-text>Bem P. Allen, Personality Theories: Development, Growth, and Diversity. 3rd ed. (Boston: Pearson/Allyn &amp; Bacon, 2006), 376.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.B.</ce:initials>
+<ce:surname>Ewen</ce:surname>
+<ce:given-name>Robert B.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>An Introduction to Theories of Personality</ref-sourcetitle>
+<ref-publicationyear first="1993"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>321</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>4th ed. Hillsdale, NJ: Lawrence Erlbaum Associates</ref-text>
+</ref-info>
+<ref-fulltext>Robert B. Ewen, An Introduction to Theories of Personality, 4th ed. (Hillsdale, NJ: Lawrence Erlbaum Associates, 1993), 321.</ref-fulltext>
+<ce:source-text>Robert B. Ewen, An Introduction to Theories of Personality, 4th ed. (Hillsdale, NJ: Lawrence Erlbaum Associates, 1993), 321.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>378</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 378.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 378.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Ewen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theories of Personality</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>321</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ewen, Theories of Personality, 321.</ref-fulltext>
+<ce:source-text>Ewen, Theories of Personality, 321.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>322</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 322.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 322.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Dumont</ce:surname>
+<ce:given-name>Frank</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A History of Personality Psychology: Theory, Science, and Research from Hellenism to the Twenty-First Century</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>185</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Leiden: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Frank Dumont, A History of Personality Psychology: Theory, Science, and Research from Hellenism to the Twenty-First Century (Leiden: Cambridge University Press, 2010), 185.</ref-fulltext>
+<ce:source-text>Frank Dumont, A History of Personality Psychology: Theory, Science, and Research from Hellenism to the Twenty-First Century (Leiden: Cambridge University Press, 2010), 185.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>328</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 328.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 328.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>198</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 198.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 198.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Dumont</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>History of Personality</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>65</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dumont, History of Personality, 65.</ref-fulltext>
+<ce:source-text>Dumont, History of Personality, 65.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>202</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 202.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 202.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Ewen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theories of Personality</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>400</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ewen, Theories of Personality, 400.</ref-fulltext>
+<ce:source-text>Ewen, Theories of Personality, 400.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>229</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 229.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 229.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Ewen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theories of Personality</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>73</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ewen, Theories of Personality, 73.</ref-fulltext>
+<ce:source-text>Ewen, Theories of Personality, 73.</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>28</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 28.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 28.</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Ewen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Theories of Personality</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>100</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ewen, Theories of Personality, 100.</ref-fulltext>
+<ce:source-text>Ewen, Theories of Personality, 100.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.P.</ce:initials>
+<ce:surname>Allen</ce:surname>
+<ce:given-name>Bem P.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories: Development, Growth, and Diversity</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>11</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>3rd ed. Boston: Pearson/Allyn &amp; Bacon</ref-text>
+</ref-info>
+<ref-fulltext>Bem P. Allen, Personality Theories: Development, Growth, and Diversity. 3rd ed. (Boston: Pearson/Allyn &amp; Bacon, 2006), 11.</ref-fulltext>
+<ce:source-text>Bem P. Allen, Personality Theories: Development, Growth, and Diversity. 3rd ed. (Boston: Pearson/Allyn &amp; Bacon, 2006), 11.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Dubois</ce:surname>
+<ce:given-name>Philip H.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The History of Psychological Testing</ref-sourcetitle>
+<ref-publicationyear first="1970"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>95</first-page>
+<last-page>96</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Boston: Allyn&amp;Bacon</ref-text>
+</ref-info>
+<ref-fulltext>Philip H. DuBois, The History of Psychological Testing (Boston: Allyn&amp;Bacon, 1970), 95–96.</ref-fulltext>
+<ce:source-text>Philip H. DuBois, The History of Psychological Testing (Boston: Allyn&amp;Bacon, 1970), 95–96.</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Dumont</ce:surname>
+<ce:given-name>Frank</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>A History of Personality Psychology: Theory, Science, and Research from Hellenism to the Twenty-First Century.</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>353</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Leiden: Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Frank Dumont, A History of Personality Psychology: Theory, Science, and Research from Hellenism to the Twenty-First Century. (Leiden: Cambridge University Press, 2010), 353.</ref-fulltext>
+<ce:source-text>Frank Dumont, A History of Personality Psychology: Theory, Science, and Research from Hellenism to the Twenty-First Century. (Leiden: Cambridge University Press, 2010), 353.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>395</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 395.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 395.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>DuBois</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>History of Psychological Testing</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>99</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>DuBois, History of Psychological Testing, 99.</ref-fulltext>
+<ce:source-text>DuBois, History of Psychological Testing, 99.</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Dumont</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>History of Personality Psychology</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>175</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Clark and Watson quoted in Dumont</ref-text>
+</ref-info>
+<ref-fulltext>Dumont, History of Personality Psychology, 175 (Clark and Watson quoted in Dumont).</ref-fulltext>
+<ce:source-text>Dumont, History of Personality Psychology, 175 (Clark and Watson quoted in Dumont).</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:surname>Allen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Personality Theories</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>381</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Allen, Personality Theories, 381.</ref-fulltext>
+<ce:source-text>Allen, Personality Theories, 381.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.G.</ce:initials>
+<ce:surname>Ibbotson</ce:surname>
+<ce:given-name>Roger G.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>W.N.</ce:initials>
+<ce:surname>Goetzmann</ce:surname>
+<ce:given-name>William N.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>History and the Equity Risk Premium</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>Yale ICF Working Paper No. 05-04</ref-text>
+</ref-info>
+<ref-fulltext>Roger G. Ibbotson, and William N. Goetzmann, “History and the Equity Risk Premium,” April 6, 2005. Yale ICF Working Paper No. 05-04.</ref-fulltext>
+<ce:source-text>Roger G. Ibbotson, and William N. Goetzmann, “History and the Equity Risk Premium,” April 6, 2005. Yale ICF Working Paper No. 05-04.</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-title>
+<ref-titletext-english>U.S. Treasury and Agency Securities</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.J.</ce:initials>
+<ce:surname>Fabozzi</ce:surname>
+<ce:given-name>Frank J.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Handbook of Fixed Income Securities</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>7th ed., ed. Frank J. Fabozzi New York: McGraw Hill</ref-text>
+</ref-info>
+<ref-fulltext>Frank J. Fabozzi, “U.S. Treasury and Agency Securities,” in The Handbook of Fixed Income Securities, 7th ed., ed. Frank J. Fabozzi (New York: McGraw Hill, 2005).</ref-fulltext>
+<ce:source-text>Frank J. Fabozzi, “U.S. Treasury and Agency Securities,” in The Handbook of Fixed Income Securities, 7th ed., ed. Frank J. Fabozzi (New York: McGraw Hill, 2005).</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Beebower, Determinants of Portfolio Performance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.P.</ce:initials>
+<ce:surname>Brinson</ce:surname>
+<ce:given-name>Gary P.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Randolph Hood</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>L.</ce:initials>
+<ce:surname>Gilbert</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Analysts Journal</ref-sourcetitle>
+<ref-publicationyear first="1986"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>39</first-page>
+<last-page>44</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>July/August</ref-text>
+</ref-info>
+<ref-fulltext>Gary P. Brinson, L. Randolph Hood, and Gilbert L. Beebower, “Determinants of Portfolio Performance,” Financial Analysts Journal (July/August 1986): 39–44.</ref-fulltext>
+<ce:source-text>Gary P. Brinson, L. Randolph Hood, and Gilbert L. Beebower, “Determinants of Portfolio Performance,” Financial Analysts Journal (July/August 1986): 39–44.</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Does Asset Allocation Policy Explain 40, 90, or 100 Percent of Performance</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.G.</ce:initials>
+<ce:surname>Ibbotson</ce:surname>
+<ce:given-name>Roger G.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.E.</ce:initials>
+<ce:surname>Kaplan</ce:surname>
+<ce:given-name>Paul E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Analysts Journal</ref-sourcetitle>
+<ref-publicationyear first="2000"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>26</first-page>
+<last-page>33</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>January/February</ref-text>
+</ref-info>
+<ref-fulltext>Roger G. Ibbotson and Paul E. Kaplan, “Does Asset Allocation Policy Explain 40, 90, or 100 Percent of Performance,” Financial Analysts Journal (January/February 2000): 26–33.</ref-fulltext>
+<ce:source-text>Roger G. Ibbotson and Paul E. Kaplan, “Does Asset Allocation Policy Explain 40, 90, or 100 Percent of Performance,” Financial Analysts Journal (January/February 2000): 26–33.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Can You Trust Your Financial Adviser?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.P.</ce:initials>
+<ce:surname>Weston</ce:surname>
+<ce:given-name>Liz Pulliam</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>MSN Money Online</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-website>
+<ce:e-address type="url">http://articles.moneycentral.com</ce:e-address>
+</ref-website>
+<ref-text>Accessed December 28, 2010</ref-text>
+</ref-info>
+<ref-fulltext>Liz Pulliam Weston, “Can You Trust Your Financial Adviser?” MSN Money Online (2009), http://articles.moneycentral.com (accessed December 28, 2010).</ref-fulltext>
+<ce:source-text>Liz Pulliam Weston, “Can You Trust Your Financial Adviser?” MSN Money Online (2009), http://articles.moneycentral.com (accessed December 28, 2010).</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Kahneman</ce:surname>
+<ce:given-name>Daniel</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Riepe</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Aspects of Investor Psychology, Journal of Portfolio Management</ref-sourcetitle>
+<ref-publicationyear first="1998"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>52</first-page>
+<last-page>65</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Daniel Kahneman and Mark Riepe, “Aspects of Investor Psychology,” Journal of Portfolio Management 24 (1998): 52–65.</ref-fulltext>
+<ce:source-text>Daniel Kahneman and Mark Riepe, “Aspects of Investor Psychology,” Journal of Portfolio Management 24 (1998): 52–65.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

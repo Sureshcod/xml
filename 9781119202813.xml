@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-01T15:10:09</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<ce:doi>10.1002/9781119202813</ce:doi>
+<itemid idtype="TPB-ID">2025200006392X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Bailout Riches!: How Everyday Investors Can Make a Fortune Buying Bad Loans for Pennies on the Dollar</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Bartmann</ce:surname>
+<ce:given-name>Bill</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Rozek</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Copyright © 2009 by Bill Bartmann</publishercopyright>
+<ce:para>What is the investment opportunity from America's financial crisis? Somewhere north of one trillion dollars of debt--mortgages, credit cards, and other forms--will be written off and sold to buyers at pennies on the dollar. It gets even better: There are ways to buy that debt with no money of your own. Society's collective pain from this crisis means that it's unlikely to occur ever again on this scale. Investors with the right roadmap are poised to profit spectacularly. Bartmann lays out a step by step plan on how to find the best deals from the federal government, local Financial Institutions, and loan brokers. The spectrum of loans that are available include: credit card debt, consumer loans, business loans, commercial loans, and real estate loans. You’ve heard about the massive government bailout of the financial sector and its cost to taxpayers. Couple that with skyrocketing unemployment and a shrinking stock market and you might think this is a terrible time to invest in anything. But you’d be wrong. In Bailout Riches!, Bill Bartmann shows you how to invest in the bailout itself and take your own cut of the trillion-dollar pie. What does Bartmann know about bailouts? Only that the last big-time government bailout-involving the savings and loan crisis and the government’s Resolution Trust Corporation- made him a billionaire. This time around, the bailout is much bigger and opportunities for profit are much greater. "Who better to teach you how to prosper from this economic chaos than a man who actually took himself from ‘bankruptcy to billionaire’ during the last crisis."Ken Blanchard, coauthor, The One Minute Entrepreneur "Bill Bartmann is more than a great financial success story; he is a phenomenal teacher who has helped thousands of my students achieve success. Bailout Riches will show you how you can prosper during these tumultuous times." Harv Eker, author, New York Times #1 bestseller, Secrets of the Millionaire Mind "When the economy is in crisis, Bill Bartmann finds the diamond in the rough. The information in this book made him a billionaire fourteen years ago during the S&amp;L crisis. Now the economy is cratering again and his methods are working better than ever. Read this book and discover a hidden source of wealth all around you." --David Lindahl, author of Emerging Real Estate Markets and Multi-Family Millions</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Bailout Riches!: How Everyday Investors Can Make a Fortune Buying Bad Loans for Pennies on the Dollar</sourcetitle>
+<sourcetitle-abbrev>n.a. Riches!: How n.a. Investors Can Make a n.a. Buying Bad Loans for Pennnies on the n.a.</sourcetitle-abbrev>
+<isbn type="print" length="13">9780470498408</isbn>
+<isbn type="electronic" length="13">9781119202813</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>1065</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2012" />
+<publicationdate>
+<year>2012</year>
+<month>01</month>
+<day>02</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202813</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
